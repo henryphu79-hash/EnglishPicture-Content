@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-21T07:18:04.8962538Z",
+  "contentManifestUrl": "manifests/VOC-FULL-01/content-manifest.json",
+  "packs": [
+    {
+      "packId": "VOC-FULL-01",
+      "packType": "vocabulary",
+      "title": "Full Vocabulary",
+      "description": "Current Extended vocabulary images for EnglishPicture.",
+      "version": "1.0.0",
+      "sizeBytes": 203345848,
+      "manifestUrl": "packs/VOC-FULL-01.json"
+    }
+  ]
+}
