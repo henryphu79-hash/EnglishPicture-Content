@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-21T07:18:04.8962538Z",
-  "contentManifestUrl": "manifests/VOC-FULL-01/content-manifest.json",
+  "generatedAt": "2026-08-25T00:00:00.0000000Z",
+  "contentManifestUrl": "manifests/global/content-manifest.json",
   "packs": [
     {
       "packId": "VOC-FULL-01",
@@ -11,6 +11,15 @@
       "version": "1.0.0",
       "sizeBytes": 203345848,
       "manifestUrl": "packs/VOC-FULL-01.json"
+    },
+    {
+      "packId": "AUDIO-CONTENT-01",
+      "packType": "audio",
+      "title": "Audio Content Pack V1",
+      "description": "US/UK/VI pronunciation audio for EnglishPicture.",
+      "version": "1.0.0",
+      "sizeBytes": 71941747,
+      "manifestUrl": "packs/AUDIO-CONTENT-01.json"
     }
   ]
 }
