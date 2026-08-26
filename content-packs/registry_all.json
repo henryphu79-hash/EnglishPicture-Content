@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "packId": "pte_delta_v1",
+      "latestVersion": "1.2.1",
+      "downloadUrl": "pte_delta_v1_manifest.json",
+      "sha256": "d18d3a9e586ca7ff832a4289550c522c770cef74050f11f485f01a37a9c61a8d",
+      "sizeBytes": 1516366,
+      "wordCount": 5000
+    },
+    {
+      "packId": "toeic_delta_v1",
+      "latestVersion": "1.1.1",
+      "downloadUrl": "toeic_delta_v1_manifest.json",
+      "sha256": "e565665b727ae5762037c754409f02ecec6d65cd2435342852f4ef2234ff6921",
+      "sizeBytes": 1868749,
+      "wordCount": 5844
+    }
+  ]
+}
