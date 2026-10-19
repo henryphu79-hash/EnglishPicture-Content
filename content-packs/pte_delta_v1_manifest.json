@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "packId": "pte_delta_v1",
-  "version": "1.2.1",
-  "generatedAt": "2026-08-26",
+  "version": "1.2.2",
+  "generatedAt": "2026-10-20",
   "scope": "PTE Content Pack Delta V1 -- production build, every dictionary record with pt==1 (real vocabulary scope, read live from dictionary_foundation_v2_1.json, never hardcoded).",
-  "wordCount": 5000,
+  "wordCount": 5016,
   "words": [
     {
       "id": "dAA001",
@@ -46788,7 +46788,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˈklʌstɚ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ006.webp",
+        "sha256": "3410ad0766da0b0d19bdf347182c56a7f960e97e7a4f695fef57acbdead87736",
+        "sizeBytes": 20966
+      },
       "audioUs": null
     },
     {
@@ -47024,7 +47028,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈvɛɹiənt/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ111.webp",
+        "sha256": "ded86de5b6108111c662c81a1d16b4ba275d93f334e2696da31363aa2ee62016",
+        "sizeBytes": 14746
+      },
       "audioUs": null
     },
     {
@@ -47050,7 +47058,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ɡɹæm/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ123.webp",
+        "sha256": "6458740a8c5b39f3df7ee5e5dda1985c50570eef714c61ea80628e2a8ef20bf6",
+        "sizeBytes": 14342
+      },
       "audioUs": null
     },
     {
@@ -47267,7 +47279,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ˈvɑləntɛɹi/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ176.webp",
+        "sha256": "3ec07a1c7e610134580c0b0d7b71b34ef59c79bdff9f51511066d76d9f329cf2",
+        "sizeBytes": 20358
+      },
       "audioUs": null
     },
     {
@@ -47428,7 +47444,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ɹɛlm/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ212.webp",
+        "sha256": "8c29222da35122e32c687273043f2815da024f5d535cba61ecb5cd55b904233c",
+        "sizeBytes": 35002
+      },
       "audioUs": null
     },
     {
@@ -47664,7 +47684,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌpɹɪˈdɑmənəˌntli/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ279.webp",
+        "sha256": "891a7a4430cdcd74a094ef19d4921770767dd3d35249ebb2b75387d89b72212f",
+        "sizeBytes": 20202
+      },
       "audioUs": null
     },
     {
@@ -47825,7 +47849,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ˈnutɹəl/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ343.webp",
+        "sha256": "d903fba8d09fb4918cbe4811317a6e0369816a4020cd7a3fc35567eb09dcddb8",
+        "sizeBytes": 11030
+      },
       "audioUs": null
     },
     {
@@ -47941,7 +47969,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ˈɡeɪmɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ419.webp",
+        "sha256": "07cdd3a922182eff47824b6985319b58c0aa12d3fad3f6c3af8241b4d1ba3525",
+        "sizeBytes": 33230
+      },
       "audioUs": null
     },
     {
@@ -48102,7 +48134,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "ærou",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ474.webp",
+        "sha256": "d16fcf35a6e3723e62ba1d31482b012ea80e7c1ff8d921115fe0803a77a78705",
+        "sizeBytes": 11150
+      },
       "audioUs": null
     },
     {
@@ -48173,7 +48209,11 @@
       ],
       "cefr": "",
       "ipaUs": "/fəˈnænsɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ497.webp",
+        "sha256": "54ce54670d432c6176315bc87a9c7eb8a85157cd4cadf3d5f145b3198f9befd0",
+        "sizeBytes": 24918
+      },
       "audioUs": null
     },
     {
@@ -49159,7 +49199,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ɛˈsθɛtɪk/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAJ/dAJ949.webp",
+        "sha256": "5e22041d75376a667cb109cf462cc8dd0312c1baeeb80adf8099314097239b66",
+        "sizeBytes": 32266
+      },
       "audioUs": null
     },
     {
@@ -49215,7 +49259,11 @@
       ],
       "cefr": "",
       "ipaUs": "/dɪˈmɛnʃənəl/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK015.webp",
+        "sha256": "fe34a461cd76b9f8a877f933d7514415d3130bdc27f4dbfb54e4e4930010ce65",
+        "sizeBytes": 23948
+      },
       "audioUs": null
     },
     {
@@ -49301,7 +49349,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ɹiˈæktɚ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK049.webp",
+        "sha256": "5f279fb45f60a1fa7c5e0908d31a627ecdaa2d0e95112bdd43676c872b632a61",
+        "sizeBytes": 29638
+      },
       "audioUs": null
     },
     {
@@ -49312,7 +49364,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/dɛns/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK090.webp",
+        "sha256": "6e18b2ceb451fd75cf90cab019d1f9fe5e4056975f2aca145c633d8374665462",
+        "sizeBytes": 33140
+      },
       "audioUs": null
     },
     {
@@ -49401,7 +49457,11 @@
       ],
       "cefr": "",
       "ipaUs": "/kəˈntɹɪbjuts/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK102.webp",
+        "sha256": "2e78061eca046673602091f775fc08c1fe025aa2ae27a2beedb69f33a5d855bf",
+        "sizeBytes": 25070
+      },
       "audioUs": null
     },
     {
@@ -49502,7 +49562,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "´li:tə",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK157.webp",
+        "sha256": "460b5b12edbc688c2a17a10306c5e272ba20b92db4b09dc52062deb7185a73eb",
+        "sizeBytes": 19756
+      },
       "audioUs": null
     },
     {
@@ -49513,7 +49577,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/tʌn/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK158.webp",
+        "sha256": "0aafa28ce82617141a955984a778b4918e443daf2d2e5d22515b5a8993717c82",
+        "sizeBytes": 18154
+      },
       "audioUs": null
     },
     {
@@ -49554,7 +49622,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈtɛknɪkəli/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK184.webp",
+        "sha256": "f6c1012780d989a64f77ac67bd41dd50fab29b51378d1572fec6d22fce6c3f46",
+        "sizeBytes": 30978
+      },
       "audioUs": null
     },
     {
@@ -49700,7 +49772,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˈpɑɹʃəli/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK378.webp",
+        "sha256": "932bbbfc552973663825077842c993bff7cdb80d418b8c1e6bdf3f8b1f6501cf",
+        "sizeBytes": 19744
+      },
       "audioUs": null
     },
     {
@@ -49756,7 +49832,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "sə'fiʃəntli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK387.webp",
+        "sha256": "b44c5ddf7e15b8b5c656566ba88c7ccd2646a142e62f9217abc59f0b259a9147",
+        "sizeBytes": 13018
+      },
       "audioUs": null
     },
     {
@@ -50127,7 +50207,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "in’evitəbli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK568.webp",
+        "sha256": "66833e390730eab348e81dd468eb182b5eec0092655331c2177b0190e09e2254",
+        "sizeBytes": 12038
+      },
       "audioUs": null
     },
     {
@@ -50138,7 +50222,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "´pjuəli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK570.webp",
+        "sha256": "507aadd8d8fa30c8016565f8395704d4317b11ebecdb47b447e19c2be3cd6a4d",
+        "sizeBytes": 19518
+      },
       "audioUs": null
     },
     {
@@ -50179,7 +50267,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "terəbli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK575.webp",
+        "sha256": "36aacc551061db27a92428028c835ce509589f028a06f5de215473d35ec2abd9",
+        "sizeBytes": 26508
+      },
       "audioUs": null
     },
     {
@@ -50400,7 +50492,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌkɑmpləˈkeɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK627.webp",
+        "sha256": "895d6784f2c205e760c9098ca6994637fbc21018efa3d003312e7dd78006d7be",
+        "sizeBytes": 35050
+      },
       "audioUs": null
     },
     {
@@ -50486,7 +50582,11 @@
       ],
       "cefr": "",
       "ipaUs": "trə´diʃənəlli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK664.webp",
+        "sha256": "4aab9d2513b2362ded202c707dc77f1ece8e9c8ebb260635c1a7917532cffcf6",
+        "sizeBytes": 31310
+      },
       "audioUs": null
     },
     {
@@ -50497,7 +50597,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ˈɛθɪk/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK665.webp",
+        "sha256": "235fb82e2822c3f0dbc257f62a5979cbf5dd508b04c9a722053e2cbf2a1e1222",
+        "sizeBytes": 24624
+      },
       "audioUs": null
     },
     {
@@ -50568,7 +50672,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌɹipɹəˈdʌkʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK683.webp",
+        "sha256": "766eb3bdec3b28e31638441e42493188ef3024815a88c985033e8f61b23d2466",
+        "sizeBytes": 22454
+      },
       "audioUs": null
     },
     {
@@ -50624,7 +50732,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/əˈbdʒɛkʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK698.webp",
+        "sha256": "d26d886836f5959a2a73106012698dddf0731052937aa07cd438f3f8e10ec4c4",
+        "sizeBytes": 22222
+      },
       "audioUs": null
     },
     {
@@ -50800,7 +50912,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˈhæˈfweɪ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK778.webp",
+        "sha256": "f1de5610a19cd445cd23264275d52372dfe35fe0219f013962158b848b0bb09c",
+        "sizeBytes": 18140
+      },
       "audioUs": null
     },
     {
@@ -50826,7 +50942,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "di´libəritli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK781.webp",
+        "sha256": "3deefba8239011f58344c851c10ffdcbf42b449ddf32bb38c85639cd771ff66f",
+        "sizeBytes": 20684
+      },
       "audioUs": null
     },
     {
@@ -50837,7 +50957,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌæləˈkeɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK782.webp",
+        "sha256": "a79ca462b82f6068f166016bbfcca2d0c9923ab82062e9bcba1f36d516355710",
+        "sizeBytes": 25298
+      },
       "audioUs": null
     },
     {
@@ -50878,7 +51002,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/kəˌnfɪɡjɚˈeɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK788.webp",
+        "sha256": "6820200d5bbf8eb51c041571a361eeddfc9dfae40088f31eae27d0161e7579ec",
+        "sizeBytes": 17598
+      },
       "audioUs": null
     },
     {
@@ -50919,7 +51047,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌdʒʌstəfəˈkeɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK793.webp",
+        "sha256": "825712158836e65fe2aa44f7df2459a0336c5ff9eeb310a228cae554bafef0ce",
+        "sizeBytes": 33048
+      },
       "audioUs": null
     },
     {
@@ -50930,7 +51062,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌmɑdəfəˈkeɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK795.webp",
+        "sha256": "3a0649d0dbe4f7d4a716dcf4fa37a4932f2386a506fc42d54e4fe81908ac498c",
+        "sizeBytes": 34726
+      },
       "audioUs": null
     },
     {
@@ -50971,7 +51107,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌspɛsɪfɪˈkeɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK799.webp",
+        "sha256": "96ee60da789b08a15aa8b78d289d9646b07de2fbfeaec67bd07a56ef314c097a",
+        "sizeBytes": 37932
+      },
       "audioUs": null
     },
     {
@@ -50982,7 +51122,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "ækjuritli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK805.webp",
+        "sha256": "137a761f144859c436decf808a59b55ead5167fcf2ad6a1205c2d3ce5c8a85ce",
+        "sizeBytes": 37540
+      },
       "audioUs": null
     },
     {
@@ -50993,7 +51137,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "striktli",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK806.webp",
+        "sha256": "684a7c1e0930ce6f49d62441facaa5b58ca926cc530d3e526d7d769698d49d0c",
+        "sizeBytes": 22656
+      },
       "audioUs": null
     },
     {
@@ -51139,7 +51287,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/tʃʌŋk/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK871.webp",
+        "sha256": "0509d76f89e723507f4c4f76a2c6a9e3bdd250d30cd4d79586038c9423f08f53",
+        "sizeBytes": 51016
+      },
       "audioUs": null
     },
     {
@@ -51540,7 +51692,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˈnoʊbəl/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL141.webp",
+        "sha256": "534f26e7ea288ee3ecb0a3339d16fafdf0c6cb4037aa762402924725fc164552",
+        "sizeBytes": 33322
+      },
       "audioUs": null
     },
     {
@@ -51596,7 +51752,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˌfɔɹmjəˈleɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL193.webp",
+        "sha256": "7e78a11d63f57ad1d90286059023bc49d9019857bce895a1e7b61a2996ef94bb",
+        "sizeBytes": 29078
+      },
       "audioUs": null
     },
     {
@@ -51907,7 +52067,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ɑɹmz/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL325.webp",
+        "sha256": "52faece7374216bc897e3d132cddbcf546688375893feb672ade5e30c4c41821",
+        "sizeBytes": 26588
+      },
       "audioUs": null
     },
     {
@@ -51948,7 +52112,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/bəˈzɑɹ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL335.webp",
+        "sha256": "30ac3acca6cd8c3229c877e947224f801b78955d7d6a24e1ed008d35d0f3db6b",
+        "sizeBytes": 28948
+      },
       "audioUs": null
     },
     {
@@ -51959,7 +52127,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/wɛˈɹbaɪ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL342.webp",
+        "sha256": "50eb3c2dee2f1f0596eec2b306dff300c58951bc8beb679e9dd5aada9247b8be",
+        "sizeBytes": 14890
+      },
       "audioUs": null
     },
     {
@@ -52060,7 +52232,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˌpɪɹiˈɑdɪk/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL440.webp",
+        "sha256": "02c89144dcf624976ac166f98b33a23666730b1e2afa149edefca7bae97ad952",
+        "sizeBytes": 7802
+      },
       "audioUs": null
     },
     {
@@ -52176,7 +52352,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˈhaɪdɹədʒən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL573.webp",
+        "sha256": "624487fb5961f2b9b585b6ab68d60e363fb4a3c58153879dd2f1326b932de5f4",
+        "sizeBytes": 23452
+      },
       "audioUs": null
     },
     {
@@ -52457,7 +52637,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈɛmpɚɚ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL696.webp",
+        "sha256": "5e61475cd3ed0c02e416e54431bb67c2c223178f6ea4ea7713aefad43d90343e",
+        "sizeBytes": 45136
+      },
       "audioUs": null
     },
     {
@@ -52603,7 +52787,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ˌɪˈluʒən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL721.webp",
+        "sha256": "24a5278ba9ce81514590249bb54cf2d1dec1ae030b332b4d7e9fa04f390049d8",
+        "sizeBytes": 30316
+      },
       "audioUs": null
     },
     {
@@ -52659,7 +52847,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/dɪˈtɛkʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAL/dAL788.webp",
+        "sha256": "1446fcb220d41401db026b6ecc474c37120d5348052578366ab7b2c994c1354d",
+        "sizeBytes": 29672
+      },
       "audioUs": null
     },
     {
@@ -53105,7 +53297,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˌdɑməˈneɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM225.webp",
+        "sha256": "ba28eb68176b66bd7840309afa322b09053e77421031e7ec46dc8a4b4d9eac12",
+        "sizeBytes": 22554
+      },
       "audioUs": null
     },
     {
@@ -53206,7 +53402,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌsɛkʃuˈæləti/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM343.webp",
+        "sha256": "96b08fe266f3c6d37618022b0fc1dd5a34d54f9b3a705a0822e72f90a6aa3bc6",
+        "sizeBytes": 32610
+      },
       "audioUs": null
     },
     {
@@ -53547,7 +53747,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/pɹəˈdʒɛkʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM479.webp",
+        "sha256": "af0c3c3a56cee742727a358720204e748b3f4b12ede52542adc0b85152135624",
+        "sizeBytes": 13338
+      },
       "audioUs": null
     },
     {
@@ -53603,7 +53807,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˈɹizənɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM493.webp",
+        "sha256": "59b85f5fce84fbf94b52866f0913735cee060a7c2e40dc6e760fb51e2fcfe76a",
+        "sizeBytes": 17408
+      },
       "audioUs": null
     },
     {
@@ -53629,7 +53837,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/əˈkɝəns/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM503.webp",
+        "sha256": "5c3a5f8934728b30af53cfe8469c1c7e9645db179135b141819bfcab3e95c43b",
+        "sizeBytes": 22350
+      },
       "audioUs": null
     },
     {
@@ -53640,7 +53852,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ɹoʊˈteɪʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM504.webp",
+        "sha256": "b1605cc91183e566a5669e4218f5ea8811d5f59996483a4de0a11032d0784c87",
+        "sizeBytes": 25668
+      },
       "audioUs": null
     },
     {
@@ -53651,7 +53867,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ˌsʌbstɪˈtuʃən/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM505.webp",
+        "sha256": "5c799c60e89fa92e5ec9c11c5d9711da104776cec94f87c56d99079516b31ca3",
+        "sizeBytes": 12200
+      },
       "audioUs": null
     },
     {
@@ -53722,7 +53942,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈneɪbər/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAM/dAM713.webp",
+        "sha256": "6d22e60eafd0fcb8047449eb6297c08f8709bab12973dd534aac2a441b83bceb",
+        "sizeBytes": 36438
+      },
       "audioUs": null
     },
     {
@@ -54951,7 +55175,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈɪntərvˌjuər/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAN/dAN508.webp",
+        "sha256": "851f675342da851f58c94e29de2ebdced5afc9d218b9a0e5df1a948b4f9cdb5a",
+        "sizeBytes": 28262
+      },
       "audioUs": null
     },
     {
@@ -55130,7 +55358,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈeɪʤɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAN/dAN721.webp",
+        "sha256": "f08affdec7a5bb8e75b9aef088e510eee6ca4293646b9e754a6ad6f92bc2edce",
+        "sizeBytes": 24300
+      },
       "audioUs": null
     },
     {
@@ -55197,7 +55429,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈpɛrəntɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAN/dAN794.webp",
+        "sha256": "6a21f3ff774bec3487fd81107d5be018a5c11330cd8d5f1a498caec6c346a887",
+        "sizeBytes": 29838
+      },
       "audioUs": null
     },
     {
@@ -55249,7 +55485,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈmænɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAN/dAN825.webp",
+        "sha256": "57a9f08af7f0ef96e9e1e4441412397976ec805bb511573e098fcdf7174cddd3",
+        "sizeBytes": 28694
+      },
       "audioUs": null
     },
     {
@@ -55271,7 +55511,11 @@
       ],
       "cefr": "",
       "ipaUs": "/pəˈzɪʃənɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAN/dAN858.webp",
+        "sha256": "b91ea99f9b301ddd83ccca745b1981dd655997ab638aec5f4ac33289e90dff97",
+        "sizeBytes": 20172
+      },
       "audioUs": null
     },
     {
@@ -55386,7 +55630,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈfʊtɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAN/dAN958.webp",
+        "sha256": "dcaf3fd98b9031e62297d55c9c21439db54e25c335d1272bb343b64f8fc1833a",
+        "sizeBytes": 16116
+      },
       "audioUs": null
     },
     {
@@ -55483,7 +55731,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈbɛdɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAO/dAO032.webp",
+        "sha256": "54342e5660c8779408451a8ac8afd6892225b8512b06c2da3099f037ebe71cdc",
+        "sizeBytes": 22870
+      },
       "audioUs": null
     },
     {
@@ -55614,7 +55866,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈlɛgɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAO/dAO152.webp",
+        "sha256": "c9275da17b463907ca7c80c5530646a02d57c6cc8c00a225c48084f3e1349d7f",
+        "sizeBytes": 9360
+      },
       "audioUs": null
     },
     {
@@ -55700,7 +55956,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈrɪŋɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAO/dAO282.webp",
+        "sha256": "653d7f4c0443b99e8fe8fa8069d932e9c8deb21f970e08ebd556932cab4b099b",
+        "sizeBytes": 19404
+      },
       "audioUs": null
     },
     {
@@ -55726,7 +55986,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈpɛrɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAO/dAO332.webp",
+        "sha256": "364c0a44041fc988f8ddfbed4aa8db59e6afda49b747858a28a7e4ef4c38da37",
+        "sizeBytes": 12390
+      },
       "audioUs": null
     },
     {
@@ -55752,7 +56016,11 @@
       ],
       "cefr": "",
       "ipaUs": "/əˈdæptɪv/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAO/dAO366.webp",
+        "sha256": "f45823713cb8a06f484dc5d833e184209d8aacf9110c5d035560e5eddc56e26a",
+        "sizeBytes": 30766
+      },
       "audioUs": null
     },
     {
@@ -55778,7 +56046,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈloʊdɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAO/dAO397.webp",
+        "sha256": "01fe41a468e46bac0610834fcf408f6280f413a4c6e91f931567d0b99324e125",
+        "sizeBytes": 33696
+      },
       "audioUs": null
     },
     {
@@ -59778,7 +60050,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/siːl/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ031.webp",
+        "sha256": "21132a448e7d9a9ca04b35b67d16e7fedf880e8bf5b77159f826ca409a2f7c90",
+        "sizeBytes": 23946
+      },
       "audioUs": null
     },
     {
@@ -60119,7 +60395,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/ˈoʊvɚˈsiz/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ250.webp",
+        "sha256": "095b9bc327b0d7d4c4d7fdbc1e582940b78d22ad90602ca5da59fed8d7ff32d6",
+        "sizeBytes": 21326
+      },
       "audioUs": null
     },
     {
@@ -60355,7 +60635,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/məˈtjʊə/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ365.webp",
+        "sha256": "e6c6687f8b85e1e9dad3eb7aecf3f1a9772d8157e6f8f775ef4bf0a8b35f5a67",
+        "sizeBytes": 40550
+      },
       "audioUs": null
     },
     {
@@ -60411,7 +60695,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈbɑdəli/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ407.webp",
+        "sha256": "a0a420313a3513cacbda82b758273f287d1bc1750bde1e5ca15f0bc88ed695cc",
+        "sizeBytes": 18150
+      },
       "audioUs": null
     },
     {
@@ -60422,7 +60710,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈfɪtər/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ418.webp",
+        "sha256": "a1a8c555e309ab64f1da456938e1d5dd7a7b882bacd37cb9f87318aa313f7e2a",
+        "sizeBytes": 31698
+      },
       "audioUs": null
     },
     {
@@ -61987,7 +62279,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "redʤistə",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ622.webp",
+        "sha256": "2464b1ca2317ccf683f1d651684569f00cf810d048b7d8dbd3e34bc7f04e2b5b",
+        "sizeBytes": 36952
+      },
       "audioUs": null
     },
     {
@@ -61998,7 +62294,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "tæp",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ623.webp",
+        "sha256": "9ab0e9ed585d1c5c6a4e4f12a1cd412ec555c53b169f0b0388889789950be3c5",
+        "sizeBytes": 15144
+      },
       "audioUs": null
     },
     {
@@ -62035,7 +62335,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "skɛə",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ628.webp",
+        "sha256": "6c3d229cb0f97bfde209b2b7a27f87523a84a9a0dcf6b5a6f7f97edcf6fb7777",
+        "sizeBytes": 28162
+      },
       "audioUs": null
     },
     {
@@ -62072,7 +62376,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "ru:in",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ631.webp",
+        "sha256": "c0f56f6db37e4a9383156e5f66166f41099185533fa81c64265e9149c9d65918",
+        "sizeBytes": 46724
+      },
       "audioUs": null
     },
     {
@@ -62120,7 +62428,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "pɔ:z",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ636.webp",
+        "sha256": "87ffe20d7d9ab52a9cded41411c8c4bf194e998a45e2f1ebc9a98e8390f8bb65",
+        "sizeBytes": 26602
+      },
       "audioUs": null
     },
     {
@@ -62142,7 +62454,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "di:kri:s",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ638.webp",
+        "sha256": "c3fc4ed1e9ca540c5a6ac41377d2fcbade3f31f527c2b2be3fe2d6f24d1e8183",
+        "sizeBytes": 19070
+      },
       "audioUs": null
     },
     {
@@ -62205,7 +62521,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "kræk",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ646.webp",
+        "sha256": "2bc70e293a3b54a8086fdd59c318690cdffca051f763ad05172c9f02cf8e87de",
+        "sizeBytes": 28384
+      },
       "audioUs": null
     },
     {
@@ -62264,7 +62584,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "treis",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ651.webp",
+        "sha256": "4701bb0ca585081796c2cf7a177914c581609c64b73d4df4df6681d83952e259",
+        "sizeBytes": 29532
+      },
       "audioUs": null
     },
     {
@@ -62319,7 +62643,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "ri'mɑ:k",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ658.webp",
+        "sha256": "c14ebf179f0c6301172273f894145971ded8f7a646392d7f176bcc36e282842c",
+        "sizeBytes": 28116
+      },
       "audioUs": null
     },
     {
@@ -62356,7 +62684,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "prɒmpt",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ662.webp",
+        "sha256": "cbd11cee937097c42d111f1bcca1506ec3e3d957aad1748d8d792541ccbdef45",
+        "sizeBytes": 22596
+      },
       "audioUs": null
     },
     {
@@ -62389,7 +62721,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "maunt",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ665.webp",
+        "sha256": "d37ef51713a4d93c20978f53e107b260b051884d5f10270eba1e55e40d8114a8",
+        "sizeBytes": 24160
+      },
       "audioUs": null
     },
     {
@@ -62415,7 +62751,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "´reskju:",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ669.webp",
+        "sha256": "ab69655b8eafb13e9911b6a8d77ce22efb9512e0b1b16070bac7eb3e9e679a19",
+        "sizeBytes": 38876
+      },
       "audioUs": null
     },
     {
@@ -62742,7 +63082,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "strip",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ705.webp",
+        "sha256": "96cec6ddff062677c0b0c6dca90be8e2c212e58b377cc54b7cdfdb8f6c108e55",
+        "sizeBytes": 21878
+      },
       "audioUs": null
     },
     {
@@ -62927,7 +63271,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "pʌntʃ",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ726.webp",
+        "sha256": "f7eda736f4baba70516193584f61708213d6db656251a2f89fc1efa218865c83",
+        "sizeBytes": 25990
+      },
       "audioUs": null
     },
     {
@@ -63120,7 +63468,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "/ɡɹæsp/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ753.webp",
+        "sha256": "7cac374d885255db33dfd5b23213b2c5d4978454ccb000985f8110d8c8ca9f68",
+        "sizeBytes": 22296
+      },
       "audioUs": null
     },
     {
@@ -63262,7 +63614,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "ri'wɔ:d",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ791.webp",
+        "sha256": "6fd996b47af0f9332034f87f635342010c694a28a44b42a94cbc2408a29d0f8a",
+        "sizeBytes": 31906
+      },
       "audioUs": null
     },
     {
@@ -63348,7 +63704,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "bri:d",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ815.webp",
+        "sha256": "67a1e0d69160134089e96115ea755a201cbbec90d24b202236a15ccff944f37d",
+        "sizeBytes": 37534
+      },
       "audioUs": null
     },
     {
@@ -63655,7 +64015,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈoʊvɚˌlæp/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ924.webp",
+        "sha256": "efe05fc6226991ad6b454f76979c0a98ac31330858429e4d1b531ee573592ff2",
+        "sizeBytes": 79604
+      },
       "audioUs": null
     },
     {
@@ -63722,7 +64086,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˌdɪfɚˈɛnʃəl/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAQ/dAQ951.webp",
+        "sha256": "51f08a0d860f05d89d3eab3a25a9d0b02bf990fb64b23f52e1900c9eff4e0f3c",
+        "sizeBytes": 14418
+      },
       "audioUs": null
     },
     {
@@ -64014,7 +64382,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈlaɪkɪŋ/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR051.webp",
+        "sha256": "fc939a2e3efaedfadbbdface5e06073b6533ac8fd47e0247ad4e1c4da9188077",
+        "sizeBytes": 34184
+      },
       "audioUs": null
     },
     {
@@ -64416,7 +64788,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "ri'və:s",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR266.webp",
+        "sha256": "fd1fb409314cd56a0c5895c07cb8bcddd6d35a5b22b8f34f0ab8254e73c94b17",
+        "sizeBytes": 24400
+      },
       "audioUs": null
     },
     {
@@ -64483,7 +64859,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "speə",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR279.webp",
+        "sha256": "f8e6e1422cfe4f429cc55f25936081647793686ed7da5ff0955d79644f757cc3",
+        "sizeBytes": 29224
+      },
       "audioUs": null
     },
     {
@@ -64584,7 +64964,11 @@
       ],
       "cefr": "",
       "ipaUs": "/ˈɔɹiˌɛnt/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR336.webp",
+        "sha256": "a9820baa954f9bb0b52b1ea01683ed015e9e008fcfb856ae4efcf58a5821c7cd",
+        "sizeBytes": 67656
+      },
       "audioUs": null
     },
     {
@@ -65757,7 +66141,11 @@
       ],
       "cefr": "B1",
       "ipaUs": "θru:'aut",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR629.webp",
+        "sha256": "0bb2ad99100efb222c202d23a36d6ba5010bc365506676c41cd1507592b005d2",
+        "sizeBytes": 35842
+      },
       "audioUs": null
     },
     {
@@ -66008,7 +66396,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "/bɪˈsaɪdz/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR712.webp",
+        "sha256": "c64fe7c7c27a066230748d303ce3928c62d7834bca6e0023250ff1a26e35fcb1",
+        "sizeBytes": 12374
+      },
       "audioUs": null
     },
     {
@@ -66030,7 +66422,11 @@
       ],
       "cefr": "B1",
       "ipaUs": "/tɪl/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR721.webp",
+        "sha256": "f91a5c44a1b7eab6b4a70492299d43267a13c6adf6695682ceb9ced5020e0198",
+        "sizeBytes": 26910
+      },
       "audioUs": null
     },
     {
@@ -66056,7 +66452,11 @@
       ],
       "cefr": "B1",
       "ipaUs": "/ˈaʊɚz/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR723.webp",
+        "sha256": "7d7cd2ab1f75a3c04c9611ae6b1ff777e46a8cd7a4d57cd61e11171f797edaed",
+        "sizeBytes": 34890
+      },
       "audioUs": null
     },
     {
@@ -66082,7 +66482,11 @@
       ],
       "cefr": "B2",
       "ipaUs": "hu:'ev",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR725.webp",
+        "sha256": "ee4d0c7328a1fc28926bb313a6028abef2aa3a654d04ed627e9d0b2dfcb62007",
+        "sizeBytes": 44308
+      },
       "audioUs": null
     },
     {
@@ -66093,7 +66497,11 @@
       ],
       "cefr": "B1",
       "ipaUs": "/ˈplɛnti/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR729.webp",
+        "sha256": "702d85c2d47da1aa7a887e776daedd617f3a0edcff244dc591329ae04922e403",
+        "sizeBytes": 29084
+      },
       "audioUs": null
     },
     {
@@ -66119,7 +66527,11 @@
       ],
       "cefr": "C1",
       "ipaUs": "bi'ni:θ",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR735.webp",
+        "sha256": "184afc3f84741f1e9f21add61c2c0ccd270396ccfe4cfb7fe6455fbbb90b3e5f",
+        "sizeBytes": 25338
+      },
       "audioUs": null
     },
     {
@@ -66182,7 +66594,11 @@
       ],
       "cefr": "B1",
       "ipaUs": "/ðɛɹz/",
-      "image": null,
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAR/dAR745.webp",
+        "sha256": "01d69e3fd6795ce984fbe49fac2f3b3aaf42accdea8deda7f6996324d644728a",
+        "sizeBytes": 34100
+      },
       "audioUs": null
     },
     {
@@ -66403,6 +66819,210 @@
         "url": "shared_delta_assets/dAR901.webp",
         "sha256": "9ffe0241f7b14f910323a747304c8276bea6e4c1e295f0d3a2a63f94713038d5",
         "sizeBytes": 37618
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAA104",
+      "word": "call",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "A1",
+      "ipaUs": "/kɔl/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA179",
+      "word": "figure",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "A2",
+      "ipaUs": "/ˈfɪɡjɚ/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA207",
+      "word": "rise",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "A2",
+      "ipaUs": "/raɪz/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA235",
+      "word": "measure",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B1",
+      "ipaUs": "/ˈmɛʒɚ/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA290",
+      "word": "charge",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B1",
+      "ipaUs": "/tʃɑrdʒ/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA350",
+      "word": "mention",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "A2",
+      "ipaUs": "menʃn",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA574",
+      "word": "guide",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "A2",
+      "ipaUs": "/ɡaɪd/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA883",
+      "word": "divide",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B1",
+      "ipaUs": "/dɪˈvaɪd/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAA935",
+      "word": "regard",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B2",
+      "ipaUs": "/rɪˈɡɑrd/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAA/dAA935.webp",
+        "sha256": "c435d8bbde46c288c5b3e224fbf41e113b95a91d173ce3765f4a5f3139c320cb",
+        "sizeBytes": 34816
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAB239",
+      "word": "purchase",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B2",
+      "ipaUs": "/ˈpɝtʃəs/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAB/dAB239.webp",
+        "sha256": "3bc4c83cf9e829b6cd848fd14f52b51cce99ff909f915c4918ca3da823f95e09",
+        "sizeBytes": 12822
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAB557",
+      "word": "remark",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B2",
+      "ipaUs": "/rɪˈmɑrk/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAB/dAB557.webp",
+        "sha256": "e4dac07c373a853d035ebcd0e6406ac0787c4fa36a3bd251f60bcece1fcd4fbe",
+        "sizeBytes": 21096
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAC550",
+      "word": "advance",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B2",
+      "ipaUs": "/ədˈvæns/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAC/dAC550.webp",
+        "sha256": "2c296d14d25224a20ef8215ea112cb6be174a49bec9ddde4a3eac7867d96d058",
+        "sizeBytes": 39970
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAC652",
+      "word": "import",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "B1",
+      "ipaUs": "/ˌɪˈmpɔrt/",
+      "image": null,
+      "audioUs": null
+    },
+    {
+      "id": "dAD269",
+      "word": "disperse",
+      "pos": [
+        "verb"
+      ],
+      "cefr": null,
+      "ipaUs": "/dɪˈspɝs/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAD/dAD269.webp",
+        "sha256": "a0aa5a8b39b2889cbe8599e2e598e24d1cc16eae62737742c2b1fad9bd45be8c",
+        "sizeBytes": 14458
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAD776",
+      "word": "renew",
+      "pos": [
+        "verb"
+      ],
+      "cefr": "C1",
+      "ipaUs": "/rɪˈnu/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAD/dAD776.webp",
+        "sha256": "5fd2a749d6704d11c6760761cf3b5c9ba2a462ccf26fe5ea2c39dfefacd3a302",
+        "sizeBytes": 21602
+      },
+      "audioUs": null
+    },
+    {
+      "id": "dAK724",
+      "word": "merit",
+      "pos": [
+        "noun"
+      ],
+      "cefr": "C1",
+      "ipaUs": "/ˈmɛrət/",
+      "image": {
+        "url": "../assets/VOC-FULL-01/images/dAK/dAK724.webp",
+        "sha256": "57f9734765155909121b8ad0ecf952101696fe16e42eb59a682d208cc9e3434c",
+        "sizeBytes": 29834
       },
       "audioUs": null
     }
