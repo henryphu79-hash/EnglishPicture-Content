@@ -3,10 +3,10 @@
   "packs": [
     {
       "packId": "pte_delta_v1",
-      "latestVersion": "1.2.2",
+      "latestVersion": "1.2.3",
       "downloadUrl": "pte_delta_v1_manifest.json",
-      "sha256": "e79113d1c25fefb85905e2857c3a0a4a6cac0f684869a3ac4f76d70771fa0f8b",
-      "sizeBytes": 1540124,
+      "sha256": "8e7888f24ab314d25cca32a4a2fffc204ced786832733c4e2cc39ec3cec41549",
+      "sizeBytes": 2061677,
       "wordCount": 5016
     },
     {
