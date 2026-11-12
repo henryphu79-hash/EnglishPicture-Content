@@ -2,13 +2,13 @@
  "schemaVersion": 3,
  "deliveryType": "id",
  "packId": "HOTEL-FULL",
- "version": "1.2.3",
+ "version": "1.2.4",
  "name": "Khách sạn · gói đầy đủ (hình + audio)",
  "title": "Khách sạn · gói đầy đủ (hình + audio)",
  "description": "Hình và audio US của toàn bộ từ vựng Hotel English, 12 bài Front desk và 500 từ Booster lễ tân mà app chưa có sẵn (chưa duyệt).",
  "dependencies": [],
  "minimumAppVersion": "1.0.0",
- "generatedAt": "2026-11-12T06:36:37+00:00",
+ "generatedAt": "2026-11-12T06:55:02+00:00",
  "generatedBy": "tools/id_pack_delivery_v1/build_hotel_full_media_pack_v1.py",
  "baseUrl": "https://raw.githubusercontent.com/henryphu79-hash/EnglishPicture-Content/main/jobmate-packs/",
  "wordIds": [
@@ -689,8 +689,8 @@
   "picture",
   "audio_us"
  ],
- "assetCount": 1302,
- "totalBytes": 22395667,
+ "assetCount": 1340,
+ "totalBytes": 22678850,
  "assets": [
   {
    "assetId": "dAA003:audio_us",
@@ -8597,6 +8597,14 @@
    "sizeBytes": 10474
   },
   {
+   "assetId": "dAS013:audio_us",
+   "wordId": "dAS013",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS013.aac",
+   "sha256": "b590e248ecf42dd14e7405404ce6f6de9c68a99da57e5420fe1db057e1a2bd85",
+   "sizeBytes": 8240
+  },
+  {
    "assetId": "dAS013:picture",
    "wordId": "dAS013",
    "assetType": "picture",
@@ -8701,12 +8709,28 @@
    "sizeBytes": 6628
   },
   {
+   "assetId": "dAS491:audio_us",
+   "wordId": "dAS491",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS491.aac",
+   "sha256": "a3e735e3ea44e1abbe3dd26adc54b51984fd0a056460971c712b3701e83cabdd",
+   "sizeBytes": 11039
+  },
+  {
    "assetId": "dAS491:picture",
    "wordId": "dAS491",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS491.webp",
    "sha256": "a099f5c9fd15fe17feda7f6889967acb632d7a4f3c0c29e3a102f39503e24f7e",
    "sizeBytes": 12942
+  },
+  {
+   "assetId": "dAS492:audio_us",
+   "wordId": "dAS492",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS492.aac",
+   "sha256": "62863aa4bce78e69447d91fc1d72de211f2b307852174266852fda3374b0847f",
+   "sizeBytes": 12149
   },
   {
    "assetId": "dAS492:picture",
@@ -8781,12 +8805,28 @@
    "sizeBytes": 12570
   },
   {
+   "assetId": "dAS497:audio_us",
+   "wordId": "dAS497",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS497.aac",
+   "sha256": "0a0262ae789ae8f4d46491fd725a287d0b747257467d522a7f1e1dcda4e95848",
+   "sizeBytes": 6398
+  },
+  {
    "assetId": "dAS497:picture",
    "wordId": "dAS497",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS497.webp",
    "sha256": "f2068e7963321c252df8ea85a9bb7d03c35d04acc577f1b5bafaae426d6602ab",
    "sizeBytes": 6906
+  },
+  {
+   "assetId": "dAS498:audio_us",
+   "wordId": "dAS498",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS498.aac",
+   "sha256": "88ab402822b78f974fe8095406b48683d35d63731790dc7969859e23abe007aa",
+   "sizeBytes": 10006
   },
   {
    "assetId": "dAS498:picture",
@@ -8797,6 +8837,14 @@
    "sizeBytes": 14932
   },
   {
+   "assetId": "dAS499:audio_us",
+   "wordId": "dAS499",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS499.aac",
+   "sha256": "f763de0c8aefa8090b2258fc6c3286ab4beab4763b5e620fdcc8443d0ffb1c76",
+   "sizeBytes": 5775
+  },
+  {
    "assetId": "dAS499:picture",
    "wordId": "dAS499",
    "assetType": "picture",
@@ -8805,12 +8853,28 @@
    "sizeBytes": 3478
   },
   {
+   "assetId": "dAS500:audio_us",
+   "wordId": "dAS500",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS500.aac",
+   "sha256": "9fc9581eaac14e61eee581a860ee2a9c870acda7d9a5489e89a63ae24049ee9f",
+   "sizeBytes": 6003
+  },
+  {
    "assetId": "dAS500:picture",
    "wordId": "dAS500",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS500.webp",
    "sha256": "aa75e2b8014efbca14ec156a96112e3e4145d9b4446f49e7e5ed7fe36a0d9816",
    "sizeBytes": 15502
+  },
+  {
+   "assetId": "dAS501:audio_us",
+   "wordId": "dAS501",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS501.aac",
+   "sha256": "27e7f3a40c32e6189d2baf30cec0d15787373d732e0cca024cf660f85c53c1ff",
+   "sizeBytes": 6264
   },
   {
    "assetId": "dAS501:picture",
@@ -10869,12 +10933,28 @@
    "sizeBytes": 13536
   },
   {
+   "assetId": "dAS631:audio_us",
+   "wordId": "dAS631",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS631.aac",
+   "sha256": "6b6b76041fe72f80ce0a4e4e14a3a27d0f70168b488e2057cc50e13828600404",
+   "sizeBytes": 7863
+  },
+  {
    "assetId": "dAS631:picture",
    "wordId": "dAS631",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS631.webp",
    "sha256": "5d4478cd95a41136206aa0f3ae3b691fbb4461d7284083e6544f46d35be6d944",
    "sizeBytes": 20030
+  },
+  {
+   "assetId": "dAS632:audio_us",
+   "wordId": "dAS632",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS632.aac",
+   "sha256": "288f5b73d1d50eae5564d42b6bc4a134f2019379c12760b9ab14002db28126d2",
+   "sizeBytes": 6400
   },
   {
    "assetId": "dAS632:picture",
@@ -10885,12 +10965,28 @@
    "sizeBytes": 24668
   },
   {
+   "assetId": "dAS633:audio_us",
+   "wordId": "dAS633",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS633.aac",
+   "sha256": "0ae499333f22ed5e3f7872942c6b83d4cd45bd0bc4f1e4de1a605edbc10d8e50",
+   "sizeBytes": 7514
+  },
+  {
    "assetId": "dAS633:picture",
    "wordId": "dAS633",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS633.webp",
    "sha256": "2c81496149d37ba25d31c41435ebb7ffff12916ea99805cff2ce60a61897c02e",
    "sizeBytes": 24866
+  },
+  {
+   "assetId": "dAS634:audio_us",
+   "wordId": "dAS634",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS634.aac",
+   "sha256": "ae6335f5ca76406bb68edb1fa75bb5b61c97766ed701d40164eed3973cf686a8",
+   "sizeBytes": 7265
   },
   {
    "assetId": "dAS634:picture",
@@ -10901,12 +10997,28 @@
    "sizeBytes": 21376
   },
   {
+   "assetId": "dAS635:audio_us",
+   "wordId": "dAS635",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS635.aac",
+   "sha256": "36d580496ec4eb26398ee6a0324c24c1bf9221ecfe42753a3afc5fcf52378dfb",
+   "sizeBytes": 6068
+  },
+  {
    "assetId": "dAS635:picture",
    "wordId": "dAS635",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS635.webp",
    "sha256": "c20a4f4dd5e260cdbc28596e9316e618da05edc963e45d0997e093f46ea247b2",
    "sizeBytes": 15108
+  },
+  {
+   "assetId": "dAS636:audio_us",
+   "wordId": "dAS636",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS636.aac",
+   "sha256": "3c1f73b474a369762f3df75ab93744567d88a2c4b237258ecad7719067123f48",
+   "sizeBytes": 6248
   },
   {
    "assetId": "dAS636:picture",
@@ -10917,12 +11029,28 @@
    "sizeBytes": 27644
   },
   {
+   "assetId": "dAS637:audio_us",
+   "wordId": "dAS637",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS637.aac",
+   "sha256": "32ac413d5f628b5681851bd56d9e07fc3fcc9bec94671c642d8b9379fef1bc15",
+   "sizeBytes": 6680
+  },
+  {
    "assetId": "dAS637:picture",
    "wordId": "dAS637",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS637.webp",
    "sha256": "556bd0ba01fb397fafa6ec129cc68db6a8e9a06665a302a6fdc8964c38e52bdc",
    "sizeBytes": 28828
+  },
+  {
+   "assetId": "dAS638:audio_us",
+   "wordId": "dAS638",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS638.aac",
+   "sha256": "6b1a6fbfb684424774764f824449d0aa1943474763bde3ff392bbbbde90ca3fe",
+   "sizeBytes": 6535
   },
   {
    "assetId": "dAS638:picture",
@@ -10933,12 +11061,28 @@
    "sizeBytes": 35974
   },
   {
+   "assetId": "dAS639:audio_us",
+   "wordId": "dAS639",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS639.aac",
+   "sha256": "039db44414bf377b0455183bad741d1b8fd3cd558c7cd69521981d68c0463433",
+   "sizeBytes": 7778
+  },
+  {
    "assetId": "dAS639:picture",
    "wordId": "dAS639",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS639.webp",
    "sha256": "c68a3263ffd412cf7116bc79b936e016f96bf2dba1106df8f133ea53817bb5dc",
    "sizeBytes": 26740
+  },
+  {
+   "assetId": "dAS640:audio_us",
+   "wordId": "dAS640",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS640.aac",
+   "sha256": "143bbe32746e772cbbbbdd8d689c46e39756d050321f2e0efbb29994f65ae656",
+   "sizeBytes": 8453
   },
   {
    "assetId": "dAS640:picture",
@@ -10949,12 +11093,28 @@
    "sizeBytes": 29888
   },
   {
+   "assetId": "dAS641:audio_us",
+   "wordId": "dAS641",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS641.aac",
+   "sha256": "f2c15a77490518717477a191e8723483621273538cd512e40a00541dc7cfda3a",
+   "sizeBytes": 8979
+  },
+  {
    "assetId": "dAS641:picture",
    "wordId": "dAS641",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS641.webp",
    "sha256": "60cdb22b75e5dec93874b8cbaf5e5004efa0db8e987e5ef9b8c77cc7f1b0b738",
    "sizeBytes": 20370
+  },
+  {
+   "assetId": "dAS642:audio_us",
+   "wordId": "dAS642",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS642.aac",
+   "sha256": "af1af887d4967b2a81d9e3bdd89d8060a1a8692cba56d253e9405ae8f709526d",
+   "sizeBytes": 8270
   },
   {
    "assetId": "dAS642:picture",
@@ -10965,12 +11125,28 @@
    "sizeBytes": 13656
   },
   {
+   "assetId": "dAS643:audio_us",
+   "wordId": "dAS643",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS643.aac",
+   "sha256": "9d4b902cc57559f432886b1e94eed0f9c9d0835eaeb19f7f562fcd8df628b4ef",
+   "sizeBytes": 8852
+  },
+  {
    "assetId": "dAS643:picture",
    "wordId": "dAS643",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS643.webp",
    "sha256": "8ec2e845828810271185bda0703a2ba490324e767391ff2d5ee5936d74a0dbe0",
    "sizeBytes": 18504
+  },
+  {
+   "assetId": "dAS644:audio_us",
+   "wordId": "dAS644",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS644.aac",
+   "sha256": "be390a0d7918107bcbb4abba5610e66a1694049c990d0019fe0fd4b61de10646",
+   "sizeBytes": 6225
   },
   {
    "assetId": "dAS644:picture",
@@ -10981,12 +11157,28 @@
    "sizeBytes": 20544
   },
   {
+   "assetId": "dAS645:audio_us",
+   "wordId": "dAS645",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS645.aac",
+   "sha256": "a0bb208832d06872a6e1f99499add368e85c1265fbbcd9cbbaae3d4a16f17574",
+   "sizeBytes": 8932
+  },
+  {
    "assetId": "dAS645:picture",
    "wordId": "dAS645",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS645.webp",
    "sha256": "61f4659027ca839324b1cfd48d6c003fcc06992ccb2dfb2bbbf253d8263ebc6c",
    "sizeBytes": 29588
+  },
+  {
+   "assetId": "dAS646:audio_us",
+   "wordId": "dAS646",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS646.aac",
+   "sha256": "84d7b47ca3a76ff42448d8da80a2f7e38a186ed2278e1d56bb27b6c35913ae29",
+   "sizeBytes": 7074
   },
   {
    "assetId": "dAS646:picture",
@@ -10997,12 +11189,28 @@
    "sizeBytes": 22112
   },
   {
+   "assetId": "dAS647:audio_us",
+   "wordId": "dAS647",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS647.aac",
+   "sha256": "9f71ad193c3cd6707415a7f7fcd0cbf1a30f8a0bd2f1eed7c23020b50b7472c8",
+   "sizeBytes": 5770
+  },
+  {
    "assetId": "dAS647:picture",
    "wordId": "dAS647",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS647.webp",
    "sha256": "64fb577b6e41e981959c4ea7ea65656ce7a89980ea9b8e800adf8cdefff84a57",
    "sizeBytes": 20160
+  },
+  {
+   "assetId": "dAS648:audio_us",
+   "wordId": "dAS648",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS648.aac",
+   "sha256": "8db258b4bbb75efdea2be099c96cd53a2b4ce6f1c80f451a125ae6b774b13c40",
+   "sizeBytes": 8982
   },
   {
    "assetId": "dAS648:picture",
@@ -11013,12 +11221,28 @@
    "sizeBytes": 22704
   },
   {
+   "assetId": "dAS649:audio_us",
+   "wordId": "dAS649",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS649.aac",
+   "sha256": "c21b8e74e05dda0a32b52b38269ef3e1b48671619624fa6804aeb599dd9bcc15",
+   "sizeBytes": 5646
+  },
+  {
    "assetId": "dAS649:picture",
    "wordId": "dAS649",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS649.webp",
    "sha256": "92031dff347fedf207134dcd6c23fd69e3b854dfe67530e7fad182f8e751d875",
    "sizeBytes": 18992
+  },
+  {
+   "assetId": "dAS650:audio_us",
+   "wordId": "dAS650",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS650.aac",
+   "sha256": "5d7a490cdbb3f184397f10c8097237d81fd8990c60db3581b871f545c2e3db3d",
+   "sizeBytes": 6790
   },
   {
    "assetId": "dAS650:picture",
@@ -11029,12 +11253,28 @@
    "sizeBytes": 18524
   },
   {
+   "assetId": "dAS651:audio_us",
+   "wordId": "dAS651",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS651.aac",
+   "sha256": "b57d0ffa2bf3081cec1dfe22f478debb6a013ff91d20d2526231ebf1d8af4bea",
+   "sizeBytes": 7714
+  },
+  {
    "assetId": "dAS651:picture",
    "wordId": "dAS651",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS651.webp",
    "sha256": "a33b240ee294841124c7295fa878d34db014c7bd97637caf1262d07a345fa05b",
    "sizeBytes": 14570
+  },
+  {
+   "assetId": "dAS652:audio_us",
+   "wordId": "dAS652",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS652.aac",
+   "sha256": "21330f67dcbc3cef7152d38fa9e519ce0b98b4e09d89a29ff3018dac02cb2839",
+   "sizeBytes": 6423
   },
   {
    "assetId": "dAS652:picture",
@@ -11045,12 +11285,28 @@
    "sizeBytes": 17018
   },
   {
+   "assetId": "dAS653:audio_us",
+   "wordId": "dAS653",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS653.aac",
+   "sha256": "733800902634874aa24051d551883211d980c4351b6a6bd6e30a0134e75b287d",
+   "sizeBytes": 5181
+  },
+  {
    "assetId": "dAS653:picture",
    "wordId": "dAS653",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS653.webp",
    "sha256": "8807f15d5d59fb281f79832db4128a56a0cafd84b76c40b2a0db1a06b8ca897f",
    "sizeBytes": 14174
+  },
+  {
+   "assetId": "dAS654:audio_us",
+   "wordId": "dAS654",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS654.aac",
+   "sha256": "a29be7ded00a36d86301d04813f9d3dcbaf187920fb742fc5c8125f69d2f757e",
+   "sizeBytes": 6505
   },
   {
    "assetId": "dAS654:picture",
@@ -11061,12 +11317,28 @@
    "sizeBytes": 14364
   },
   {
+   "assetId": "dAS655:audio_us",
+   "wordId": "dAS655",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS655.aac",
+   "sha256": "fe36776cb3bec4063c1eefd2df822e03616c04b3f2f9167f8276b6d4ef09f555",
+   "sizeBytes": 8118
+  },
+  {
    "assetId": "dAS655:picture",
    "wordId": "dAS655",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS655.webp",
    "sha256": "fed4f103ba95c39ac00fc8cda6c11d4ca0d4a4963f02b3fe5bf2225c6740cc18",
    "sizeBytes": 19580
+  },
+  {
+   "assetId": "dAS656:audio_us",
+   "wordId": "dAS656",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS656.aac",
+   "sha256": "f9d4efd4e86d39578ddf30d4f157d10650231309166f0aa409c3443ec0ef1a89",
+   "sizeBytes": 8510
   },
   {
    "assetId": "dAS656:picture",
@@ -11077,12 +11349,28 @@
    "sizeBytes": 14166
   },
   {
+   "assetId": "dAS657:audio_us",
+   "wordId": "dAS657",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS657.aac",
+   "sha256": "de3584b046d362a84e6fe1695e821f111799be6339dc0d25a56c465be128803c",
+   "sizeBytes": 6228
+  },
+  {
    "assetId": "dAS657:picture",
    "wordId": "dAS657",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS657.webp",
    "sha256": "6bbc750d1d4d9a792af2b0463ef9a9c195c3af42d9031d70a6b05374caebb97f",
    "sizeBytes": 22042
+  },
+  {
+   "assetId": "dAS658:audio_us",
+   "wordId": "dAS658",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS658.aac",
+   "sha256": "0d69e3d2fabf373abd88550767ebebe4c5c60ca00a89c8fe77f897871c477232",
+   "sizeBytes": 6553
   },
   {
    "assetId": "dAS658:picture",
@@ -11093,12 +11381,28 @@
    "sizeBytes": 10340
   },
   {
+   "assetId": "dAS659:audio_us",
+   "wordId": "dAS659",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS659.aac",
+   "sha256": "b60e0257de348b52383d884f582989037461a55d8fb90f68ef85effd24edc661",
+   "sizeBytes": 7286
+  },
+  {
    "assetId": "dAS659:picture",
    "wordId": "dAS659",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS659.webp",
    "sha256": "c6abcc2ccccaebf9fd627e955e816ef34d06a39ae268de2ae503deaa93605205",
    "sizeBytes": 26010
+  },
+  {
+   "assetId": "dAS660:audio_us",
+   "wordId": "dAS660",
+   "assetType": "audio_us",
+   "path": "id-packs/media/hotel_full/audio_us/us_dAS660.aac",
+   "sha256": "ff758ffd051129dff070d6f10d4ac4c9a7be5fadf661de6fb09f0bea59183751",
+   "sizeBytes": 8467
   },
   {
    "assetId": "dAS660:picture",
