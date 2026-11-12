@@ -1,0 +1,2616 @@
+{
+ "schemaVersion": 3,
+ "deliveryType": "id",
+ "packId": "HOTEL-VISUAL-V1",
+ "version": "1.1.1",
+ "name": "Khách sạn · cảnh minh họa (288 cảnh)",
+ "title": "Khách sạn · cảnh minh họa (288 cảnh)",
+ "description": "Cảnh minh họa 8 chủ đề lễ tân, từ nhận phòng đến trả phòng (Martin, chưa duyệt).",
+ "dependencies": [],
+ "minimumAppVersion": "1.0.0",
+ "generatedAt": "2026-11-04T18:06:10+00:00",
+ "generatedBy": "tools/clever_topic_mode/build_hotel_scenes_v1.py",
+ "baseUrl": "https://raw.githubusercontent.com/henryphu79-hash/EnglishPicture-Content/main/jobmate-packs/",
+ "wordIds": [
+  "HOTEL01_IMG_001",
+  "HOTEL01_IMG_002",
+  "HOTEL01_IMG_003",
+  "HOTEL01_IMG_004",
+  "HOTEL01_IMG_005",
+  "HOTEL01_IMG_006",
+  "HOTEL01_IMG_007",
+  "HOTEL01_IMG_008",
+  "HOTEL01_IMG_009",
+  "HOTEL01_IMG_010",
+  "HOTEL01_IMG_011",
+  "HOTEL01_IMG_012",
+  "HOTEL01_IMG_013",
+  "HOTEL01_IMG_014",
+  "HOTEL01_IMG_015",
+  "HOTEL01_IMG_016",
+  "HOTEL01_IMG_017",
+  "HOTEL01_IMG_018",
+  "HOTEL01_IMG_019",
+  "HOTEL01_IMG_020",
+  "HOTEL01_IMG_021",
+  "HOTEL01_IMG_022",
+  "HOTEL01_IMG_023",
+  "HOTEL01_IMG_024",
+  "HOTEL01_IMG_025",
+  "HOTEL01_IMG_026",
+  "HOTEL01_IMG_027",
+  "HOTEL01_IMG_028",
+  "HOTEL01_IMG_029",
+  "HOTEL01_IMG_030",
+  "HOTEL01_IMG_031",
+  "HOTEL01_IMG_032",
+  "HOTEL01_IMG_033",
+  "HOTEL01_IMG_034",
+  "HOTEL01_IMG_035",
+  "HOTEL01_IMG_036",
+  "HOTEL02_IMG_001",
+  "HOTEL02_IMG_002",
+  "HOTEL02_IMG_003",
+  "HOTEL02_IMG_004",
+  "HOTEL02_IMG_005",
+  "HOTEL02_IMG_006",
+  "HOTEL02_IMG_007",
+  "HOTEL02_IMG_008",
+  "HOTEL02_IMG_009",
+  "HOTEL02_IMG_010",
+  "HOTEL02_IMG_011",
+  "HOTEL02_IMG_012",
+  "HOTEL02_IMG_013",
+  "HOTEL02_IMG_014",
+  "HOTEL02_IMG_015",
+  "HOTEL02_IMG_016",
+  "HOTEL02_IMG_017",
+  "HOTEL02_IMG_018",
+  "HOTEL02_IMG_019",
+  "HOTEL02_IMG_020",
+  "HOTEL02_IMG_021",
+  "HOTEL02_IMG_022",
+  "HOTEL02_IMG_023",
+  "HOTEL02_IMG_024",
+  "HOTEL02_IMG_025",
+  "HOTEL02_IMG_026",
+  "HOTEL02_IMG_027",
+  "HOTEL02_IMG_028",
+  "HOTEL02_IMG_029",
+  "HOTEL02_IMG_030",
+  "HOTEL02_IMG_031",
+  "HOTEL02_IMG_032",
+  "HOTEL02_IMG_033",
+  "HOTEL02_IMG_034",
+  "HOTEL02_IMG_035",
+  "HOTEL02_IMG_036",
+  "HOTEL03_IMG_001",
+  "HOTEL03_IMG_002",
+  "HOTEL03_IMG_003",
+  "HOTEL03_IMG_004",
+  "HOTEL03_IMG_005",
+  "HOTEL03_IMG_006",
+  "HOTEL03_IMG_007",
+  "HOTEL03_IMG_008",
+  "HOTEL03_IMG_009",
+  "HOTEL03_IMG_010",
+  "HOTEL03_IMG_011",
+  "HOTEL03_IMG_012",
+  "HOTEL03_IMG_013",
+  "HOTEL03_IMG_014",
+  "HOTEL03_IMG_015",
+  "HOTEL03_IMG_016",
+  "HOTEL03_IMG_017",
+  "HOTEL03_IMG_018",
+  "HOTEL03_IMG_019",
+  "HOTEL03_IMG_020",
+  "HOTEL03_IMG_021",
+  "HOTEL03_IMG_022",
+  "HOTEL03_IMG_023",
+  "HOTEL03_IMG_024",
+  "HOTEL03_IMG_025",
+  "HOTEL03_IMG_026",
+  "HOTEL03_IMG_027",
+  "HOTEL03_IMG_028",
+  "HOTEL03_IMG_029",
+  "HOTEL03_IMG_030",
+  "HOTEL03_IMG_031",
+  "HOTEL03_IMG_032",
+  "HOTEL03_IMG_033",
+  "HOTEL03_IMG_034",
+  "HOTEL03_IMG_035",
+  "HOTEL03_IMG_036",
+  "HOTEL04_IMG_001",
+  "HOTEL04_IMG_002",
+  "HOTEL04_IMG_003",
+  "HOTEL04_IMG_004",
+  "HOTEL04_IMG_005",
+  "HOTEL04_IMG_006",
+  "HOTEL04_IMG_007",
+  "HOTEL04_IMG_008",
+  "HOTEL04_IMG_009",
+  "HOTEL04_IMG_010",
+  "HOTEL04_IMG_011",
+  "HOTEL04_IMG_012",
+  "HOTEL04_IMG_013",
+  "HOTEL04_IMG_014",
+  "HOTEL04_IMG_015",
+  "HOTEL04_IMG_016",
+  "HOTEL04_IMG_017",
+  "HOTEL04_IMG_018",
+  "HOTEL04_IMG_019",
+  "HOTEL04_IMG_020",
+  "HOTEL04_IMG_021",
+  "HOTEL04_IMG_022",
+  "HOTEL04_IMG_023",
+  "HOTEL04_IMG_024",
+  "HOTEL04_IMG_025",
+  "HOTEL04_IMG_026",
+  "HOTEL04_IMG_027",
+  "HOTEL04_IMG_028",
+  "HOTEL04_IMG_029",
+  "HOTEL04_IMG_030",
+  "HOTEL04_IMG_031",
+  "HOTEL04_IMG_032",
+  "HOTEL04_IMG_033",
+  "HOTEL04_IMG_034",
+  "HOTEL04_IMG_035",
+  "HOTEL04_IMG_036",
+  "HOTEL05_IMG_001",
+  "HOTEL05_IMG_002",
+  "HOTEL05_IMG_003",
+  "HOTEL05_IMG_004",
+  "HOTEL05_IMG_005",
+  "HOTEL05_IMG_006",
+  "HOTEL05_IMG_007",
+  "HOTEL05_IMG_008",
+  "HOTEL05_IMG_009",
+  "HOTEL05_IMG_010",
+  "HOTEL05_IMG_011",
+  "HOTEL05_IMG_012",
+  "HOTEL05_IMG_013",
+  "HOTEL05_IMG_014",
+  "HOTEL05_IMG_015",
+  "HOTEL05_IMG_016",
+  "HOTEL05_IMG_017",
+  "HOTEL05_IMG_018",
+  "HOTEL05_IMG_019",
+  "HOTEL05_IMG_020",
+  "HOTEL05_IMG_021",
+  "HOTEL05_IMG_022",
+  "HOTEL05_IMG_023",
+  "HOTEL05_IMG_024",
+  "HOTEL05_IMG_025",
+  "HOTEL05_IMG_026",
+  "HOTEL05_IMG_027",
+  "HOTEL05_IMG_028",
+  "HOTEL05_IMG_029",
+  "HOTEL05_IMG_030",
+  "HOTEL05_IMG_031",
+  "HOTEL05_IMG_032",
+  "HOTEL05_IMG_033",
+  "HOTEL05_IMG_034",
+  "HOTEL05_IMG_035",
+  "HOTEL05_IMG_036",
+  "HOTEL06_IMG_001",
+  "HOTEL06_IMG_002",
+  "HOTEL06_IMG_003",
+  "HOTEL06_IMG_004",
+  "HOTEL06_IMG_005",
+  "HOTEL06_IMG_006",
+  "HOTEL06_IMG_007",
+  "HOTEL06_IMG_008",
+  "HOTEL06_IMG_009",
+  "HOTEL06_IMG_010",
+  "HOTEL06_IMG_011",
+  "HOTEL06_IMG_012",
+  "HOTEL06_IMG_013",
+  "HOTEL06_IMG_014",
+  "HOTEL06_IMG_015",
+  "HOTEL06_IMG_016",
+  "HOTEL06_IMG_017",
+  "HOTEL06_IMG_018",
+  "HOTEL06_IMG_019",
+  "HOTEL06_IMG_020",
+  "HOTEL06_IMG_021",
+  "HOTEL06_IMG_022",
+  "HOTEL06_IMG_023",
+  "HOTEL06_IMG_024",
+  "HOTEL06_IMG_025",
+  "HOTEL06_IMG_026",
+  "HOTEL06_IMG_027",
+  "HOTEL06_IMG_028",
+  "HOTEL06_IMG_029",
+  "HOTEL06_IMG_030",
+  "HOTEL06_IMG_031",
+  "HOTEL06_IMG_032",
+  "HOTEL06_IMG_033",
+  "HOTEL06_IMG_034",
+  "HOTEL06_IMG_035",
+  "HOTEL06_IMG_036",
+  "HOTEL07_IMG_001",
+  "HOTEL07_IMG_002",
+  "HOTEL07_IMG_003",
+  "HOTEL07_IMG_004",
+  "HOTEL07_IMG_005",
+  "HOTEL07_IMG_006",
+  "HOTEL07_IMG_007",
+  "HOTEL07_IMG_008",
+  "HOTEL07_IMG_009",
+  "HOTEL07_IMG_010",
+  "HOTEL07_IMG_011",
+  "HOTEL07_IMG_012",
+  "HOTEL07_IMG_013",
+  "HOTEL07_IMG_014",
+  "HOTEL07_IMG_015",
+  "HOTEL07_IMG_016",
+  "HOTEL07_IMG_017",
+  "HOTEL07_IMG_018",
+  "HOTEL07_IMG_019",
+  "HOTEL07_IMG_020",
+  "HOTEL07_IMG_021",
+  "HOTEL07_IMG_022",
+  "HOTEL07_IMG_023",
+  "HOTEL07_IMG_024",
+  "HOTEL07_IMG_025",
+  "HOTEL07_IMG_026",
+  "HOTEL07_IMG_027",
+  "HOTEL07_IMG_028",
+  "HOTEL07_IMG_029",
+  "HOTEL07_IMG_030",
+  "HOTEL07_IMG_031",
+  "HOTEL07_IMG_032",
+  "HOTEL07_IMG_033",
+  "HOTEL07_IMG_034",
+  "HOTEL07_IMG_035",
+  "HOTEL07_IMG_036",
+  "HOTEL08_IMG_001",
+  "HOTEL08_IMG_002",
+  "HOTEL08_IMG_003",
+  "HOTEL08_IMG_004",
+  "HOTEL08_IMG_005",
+  "HOTEL08_IMG_006",
+  "HOTEL08_IMG_007",
+  "HOTEL08_IMG_008",
+  "HOTEL08_IMG_009",
+  "HOTEL08_IMG_010",
+  "HOTEL08_IMG_011",
+  "HOTEL08_IMG_012",
+  "HOTEL08_IMG_013",
+  "HOTEL08_IMG_014",
+  "HOTEL08_IMG_015",
+  "HOTEL08_IMG_023",
+  "HOTEL08_IMG_024",
+  "HOTEL08_IMG_016",
+  "HOTEL08_IMG_017",
+  "HOTEL08_IMG_018",
+  "HOTEL08_IMG_019",
+  "HOTEL08_IMG_020",
+  "HOTEL08_IMG_025",
+  "HOTEL08_IMG_026",
+  "HOTEL08_IMG_027",
+  "HOTEL08_IMG_028",
+  "HOTEL08_IMG_029",
+  "HOTEL08_IMG_030",
+  "HOTEL08_IMG_031",
+  "HOTEL08_IMG_032",
+  "HOTEL08_IMG_021",
+  "HOTEL08_IMG_022",
+  "HOTEL08_IMG_033",
+  "HOTEL08_IMG_034",
+  "HOTEL08_IMG_035",
+  "HOTEL08_IMG_036"
+ ],
+ "assetTypes": [
+  "scene_image"
+ ],
+ "assetCount": 288,
+ "totalBytes": 14899380,
+ "assets": [
+  {
+   "assetId": "HOTEL01_IMG_001:scene_image",
+   "wordId": "HOTEL01_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_001.webp",
+   "sha256": "8b11a504f07ab55041ed49a7a8c17f13177be649156cffd4666ae701018ccfb1",
+   "sizeBytes": 66966
+  },
+  {
+   "assetId": "HOTEL01_IMG_002:scene_image",
+   "wordId": "HOTEL01_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_002.webp",
+   "sha256": "da14613e53933be1f7e17b8134f3cf4f870e7a178ab5beffca2dc1826985a12d",
+   "sizeBytes": 55116
+  },
+  {
+   "assetId": "HOTEL01_IMG_003:scene_image",
+   "wordId": "HOTEL01_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_003.webp",
+   "sha256": "59a88e01fd8723c01478b08a107532bf6695b85b55a78c12ec0264d51a9e2418",
+   "sizeBytes": 46650
+  },
+  {
+   "assetId": "HOTEL01_IMG_004:scene_image",
+   "wordId": "HOTEL01_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_004.webp",
+   "sha256": "5f09c974158dbfd453563fb34272fa47e6ea0bb1182a44cd1c45b096fb9fde90",
+   "sizeBytes": 50552
+  },
+  {
+   "assetId": "HOTEL01_IMG_005:scene_image",
+   "wordId": "HOTEL01_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_005.webp",
+   "sha256": "48d227244087b635b28a5e506cba727655ec84829fcfff247c5ba41a38b18484",
+   "sizeBytes": 50722
+  },
+  {
+   "assetId": "HOTEL01_IMG_006:scene_image",
+   "wordId": "HOTEL01_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_006.webp",
+   "sha256": "d68689ac6471f1aff55cf3c050b608143e5ca2ccc851c5ff4fa8a52004049010",
+   "sizeBytes": 47644
+  },
+  {
+   "assetId": "HOTEL01_IMG_007:scene_image",
+   "wordId": "HOTEL01_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_007.webp",
+   "sha256": "5488bb01e6ffa46d97411991ab678e232dfc4a8d67ff40f59439e7054f9a7178",
+   "sizeBytes": 51752
+  },
+  {
+   "assetId": "HOTEL01_IMG_008:scene_image",
+   "wordId": "HOTEL01_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_008.webp",
+   "sha256": "a0b29570ef03c14cd182347ddf9d4e1cf761b75e94479c1ef81220a07cdf1b92",
+   "sizeBytes": 49762
+  },
+  {
+   "assetId": "HOTEL01_IMG_009:scene_image",
+   "wordId": "HOTEL01_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_009.webp",
+   "sha256": "9e2636c03dc360f8ea16456e87bb7c88614720f87006a0cf361eb02e41f06f8a",
+   "sizeBytes": 51506
+  },
+  {
+   "assetId": "HOTEL01_IMG_010:scene_image",
+   "wordId": "HOTEL01_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_010.webp",
+   "sha256": "561bfbcc798e7a730fbd67fa7edb3e2009fd3302988c20d8e58e447f1b617e32",
+   "sizeBytes": 50062
+  },
+  {
+   "assetId": "HOTEL01_IMG_011:scene_image",
+   "wordId": "HOTEL01_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_011.webp",
+   "sha256": "56d7892f9a3920076808f5e0e819f059dc6e1ef791ba191bc17ee864addef6ab",
+   "sizeBytes": 50044
+  },
+  {
+   "assetId": "HOTEL01_IMG_012:scene_image",
+   "wordId": "HOTEL01_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_012.webp",
+   "sha256": "fd9b8aee138c6f46234bbbf90ba7d55dea196896533e78aaebb1319e2a5b643d",
+   "sizeBytes": 50718
+  },
+  {
+   "assetId": "HOTEL01_IMG_013:scene_image",
+   "wordId": "HOTEL01_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_013.webp",
+   "sha256": "e789e7b315fea5c15f1c27865e91d873f507d8aa9ae487224022390b0fcd0595",
+   "sizeBytes": 57760
+  },
+  {
+   "assetId": "HOTEL01_IMG_014:scene_image",
+   "wordId": "HOTEL01_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_014.webp",
+   "sha256": "3a244d9035abdb208a3ce5f0e4db7bc968dde4dbcf3c89a2f4ff5dd1c6366527",
+   "sizeBytes": 53398
+  },
+  {
+   "assetId": "HOTEL01_IMG_015:scene_image",
+   "wordId": "HOTEL01_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_015.webp",
+   "sha256": "89a3c61e9ab816152e0fa51e920bdde7ec688f160b7f10cdfaa3e87aee50090d",
+   "sizeBytes": 60728
+  },
+  {
+   "assetId": "HOTEL01_IMG_016:scene_image",
+   "wordId": "HOTEL01_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_016.webp",
+   "sha256": "86a489cc85c4675e015ea9599727b6483d11c986b29bffc78214fccb2575e22d",
+   "sizeBytes": 58690
+  },
+  {
+   "assetId": "HOTEL01_IMG_017:scene_image",
+   "wordId": "HOTEL01_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_017.webp",
+   "sha256": "66462601d0636305ef62d81079eb888e5fc9f9d17b6379bc2fac710031b173dd",
+   "sizeBytes": 52722
+  },
+  {
+   "assetId": "HOTEL01_IMG_018:scene_image",
+   "wordId": "HOTEL01_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_018.webp",
+   "sha256": "b0291fe77f3b3570207bf16139060ba4d27d0d881fe7fd1b5829850bdbaa0a0d",
+   "sizeBytes": 48206
+  },
+  {
+   "assetId": "HOTEL01_IMG_019:scene_image",
+   "wordId": "HOTEL01_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_019.webp",
+   "sha256": "c2648520431fc3a42773877742d8574af7417d5efc35e5033d03519700729779",
+   "sizeBytes": 50034
+  },
+  {
+   "assetId": "HOTEL01_IMG_020:scene_image",
+   "wordId": "HOTEL01_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_020.webp",
+   "sha256": "5d27bfb8b90a94ed3193467f60646959383fcbf377744ca8f41e7cb300589272",
+   "sizeBytes": 47166
+  },
+  {
+   "assetId": "HOTEL01_IMG_021:scene_image",
+   "wordId": "HOTEL01_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_021.webp",
+   "sha256": "52b5bff76df4ff29cc14b8adfcf36318e62957cdddc77dc7b36b08bf5e55e88a",
+   "sizeBytes": 52002
+  },
+  {
+   "assetId": "HOTEL01_IMG_022:scene_image",
+   "wordId": "HOTEL01_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_022.webp",
+   "sha256": "8c6f90af52d2f12172684f207f8dbd9d60c1d5146436fc7509e53c0976437bf3",
+   "sizeBytes": 53944
+  },
+  {
+   "assetId": "HOTEL01_IMG_023:scene_image",
+   "wordId": "HOTEL01_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_023.webp",
+   "sha256": "04d5704ba3ea1a5700c6e859b0cf59cfeec89d85b6a69475a74596539a200978",
+   "sizeBytes": 51990
+  },
+  {
+   "assetId": "HOTEL01_IMG_024:scene_image",
+   "wordId": "HOTEL01_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_024.webp",
+   "sha256": "0133d297c19df9dd942dcb999f41fde057b841556a326f868bb361b644a488f1",
+   "sizeBytes": 53038
+  },
+  {
+   "assetId": "HOTEL01_IMG_025:scene_image",
+   "wordId": "HOTEL01_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_025.webp",
+   "sha256": "a850b0c80fd8eca68fe75bf8b94eae81e006d9206d4c1d64839c4114b2cbb44e",
+   "sizeBytes": 69462
+  },
+  {
+   "assetId": "HOTEL01_IMG_026:scene_image",
+   "wordId": "HOTEL01_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_026.webp",
+   "sha256": "8e27ed7e97967afab32857e974481814b25817b58695a8196e6d8e568b81572b",
+   "sizeBytes": 55996
+  },
+  {
+   "assetId": "HOTEL01_IMG_027:scene_image",
+   "wordId": "HOTEL01_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_027.webp",
+   "sha256": "cf0df9c5b85dd8194def7b58b960194b288f09a9731373e7d768a2faaee235b6",
+   "sizeBytes": 48470
+  },
+  {
+   "assetId": "HOTEL01_IMG_028:scene_image",
+   "wordId": "HOTEL01_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_028.webp",
+   "sha256": "56ed09faf33534fa89d0dd310b689312ea6d59fba5bd059a1d7d103d995a651e",
+   "sizeBytes": 51968
+  },
+  {
+   "assetId": "HOTEL01_IMG_029:scene_image",
+   "wordId": "HOTEL01_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_029.webp",
+   "sha256": "7ef1b5465e1867f86f6434e5488e10cd6f3c9cccd8b9e82b1ece321df652cf61",
+   "sizeBytes": 48354
+  },
+  {
+   "assetId": "HOTEL01_IMG_030:scene_image",
+   "wordId": "HOTEL01_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_030.webp",
+   "sha256": "aded8739bb4377545ac7d8d41addbf09601f2fce03176c9ff5d3a0e0a6aec26c",
+   "sizeBytes": 45866
+  },
+  {
+   "assetId": "HOTEL01_IMG_031:scene_image",
+   "wordId": "HOTEL01_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_031.webp",
+   "sha256": "13367a9efc9badfd9a204792f19b5294be94964a3b1ec3d4e8b73710a4961014",
+   "sizeBytes": 46492
+  },
+  {
+   "assetId": "HOTEL01_IMG_032:scene_image",
+   "wordId": "HOTEL01_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_032.webp",
+   "sha256": "a6ad3d2fc947133073de7e36f331843f337d7096334d00df15a4e4c6f46060b1",
+   "sizeBytes": 65112
+  },
+  {
+   "assetId": "HOTEL01_IMG_033:scene_image",
+   "wordId": "HOTEL01_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_033.webp",
+   "sha256": "b758b51e8415133e22b97cf52db0d5c069d45bc3e38127f15f241cbc31e1f85b",
+   "sizeBytes": 71222
+  },
+  {
+   "assetId": "HOTEL01_IMG_034:scene_image",
+   "wordId": "HOTEL01_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_034.webp",
+   "sha256": "6368aeeaf8c89fc9bd8866e38c9c93f20153f8c29aaefb2e58b8bf4fa7502e9d",
+   "sizeBytes": 57340
+  },
+  {
+   "assetId": "HOTEL01_IMG_035:scene_image",
+   "wordId": "HOTEL01_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_035.webp",
+   "sha256": "f2e2cc9ab0412871b1bbbde138a021a32365f4f0085154d1ed444f2f0cc9d493",
+   "sizeBytes": 57668
+  },
+  {
+   "assetId": "HOTEL01_IMG_036:scene_image",
+   "wordId": "HOTEL01_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL01_IMG_036.webp",
+   "sha256": "21b754b3d4203d34dc7779b0d1f189ede601ba8030ff5d1c6f3e24e2a0f2d1f1",
+   "sizeBytes": 41394
+  },
+  {
+   "assetId": "HOTEL02_IMG_001:scene_image",
+   "wordId": "HOTEL02_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_001.webp",
+   "sha256": "8e83cfe8f3777fe6938a2d827b740ff0ad9650661d61334bc54efa8ffd551cb1",
+   "sizeBytes": 59102
+  },
+  {
+   "assetId": "HOTEL02_IMG_002:scene_image",
+   "wordId": "HOTEL02_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_002.webp",
+   "sha256": "36bc53249de57b3a14ff7e10052a4533e5c2e1d1b69884f160e6e9e2f98fe538",
+   "sizeBytes": 35278
+  },
+  {
+   "assetId": "HOTEL02_IMG_003:scene_image",
+   "wordId": "HOTEL02_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_003.webp",
+   "sha256": "7c9d4923115f374e9534b5785e3765a5ee681158994bf151d3de240b009c1f18",
+   "sizeBytes": 50476
+  },
+  {
+   "assetId": "HOTEL02_IMG_004:scene_image",
+   "wordId": "HOTEL02_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_004.webp",
+   "sha256": "77aac7ed3f2b3c4b40b02bef3663c33ec0bab59ac96b0f2de608f7582b0068e3",
+   "sizeBytes": 52264
+  },
+  {
+   "assetId": "HOTEL02_IMG_005:scene_image",
+   "wordId": "HOTEL02_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_005.webp",
+   "sha256": "ad39a62ed75415d8c2ff793f946a10ec02807bb641178136ed133139c9972f07",
+   "sizeBytes": 55428
+  },
+  {
+   "assetId": "HOTEL02_IMG_006:scene_image",
+   "wordId": "HOTEL02_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_006.webp",
+   "sha256": "9d911e245bd61d8ee6f78345afe4363052eeb726d9ca3467c3bc0207fd29da5a",
+   "sizeBytes": 52920
+  },
+  {
+   "assetId": "HOTEL02_IMG_007:scene_image",
+   "wordId": "HOTEL02_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_007.webp",
+   "sha256": "43ec7a4d7385ab25e55ba3802a3d3bbeda188758a95323a0cf4a4e116af25748",
+   "sizeBytes": 54996
+  },
+  {
+   "assetId": "HOTEL02_IMG_008:scene_image",
+   "wordId": "HOTEL02_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_008.webp",
+   "sha256": "223f737cc27c9e52b30a7b85a550c8f06ffe06eefd8970ee92ebd42dc1282e83",
+   "sizeBytes": 52598
+  },
+  {
+   "assetId": "HOTEL02_IMG_009:scene_image",
+   "wordId": "HOTEL02_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_009.webp",
+   "sha256": "b9c99c3ad8abc85d7770c26b7ab3ebcac8a1dbb076333632409938db3e4bbb68",
+   "sizeBytes": 51370
+  },
+  {
+   "assetId": "HOTEL02_IMG_010:scene_image",
+   "wordId": "HOTEL02_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_010.webp",
+   "sha256": "379a47ab994d116c5894143f22c67d73ab32a5fb1aa98f1032530cfa2369daed",
+   "sizeBytes": 50620
+  },
+  {
+   "assetId": "HOTEL02_IMG_011:scene_image",
+   "wordId": "HOTEL02_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_011.webp",
+   "sha256": "7679fd2a2f5d918558c03c443d22036ced381c646e46919032dbe402407714f2",
+   "sizeBytes": 52356
+  },
+  {
+   "assetId": "HOTEL02_IMG_012:scene_image",
+   "wordId": "HOTEL02_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_012.webp",
+   "sha256": "24b1045cbc4b74332c2efeec49890d6ee677f0f069a717bc3423928cffd77862",
+   "sizeBytes": 50858
+  },
+  {
+   "assetId": "HOTEL02_IMG_013:scene_image",
+   "wordId": "HOTEL02_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_013.webp",
+   "sha256": "8b5c68afdc84e7e14dc4112b7d5bd99e3659ad722c22931d8e4e05414ab1c17a",
+   "sizeBytes": 52478
+  },
+  {
+   "assetId": "HOTEL02_IMG_014:scene_image",
+   "wordId": "HOTEL02_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_014.webp",
+   "sha256": "a1c33a000533232141819435b72dc90be58504f96a739c73963cb16ac16bf0d9",
+   "sizeBytes": 48762
+  },
+  {
+   "assetId": "HOTEL02_IMG_015:scene_image",
+   "wordId": "HOTEL02_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_015.webp",
+   "sha256": "b26dc1324499d868cc827431c995397dc66f847a59cae092e71d55be04847047",
+   "sizeBytes": 51234
+  },
+  {
+   "assetId": "HOTEL02_IMG_016:scene_image",
+   "wordId": "HOTEL02_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_016.webp",
+   "sha256": "81c5372ff1c02f6094e546148a32999e3276c8dd0ee4a28839a6abcf7ad70f57",
+   "sizeBytes": 51668
+  },
+  {
+   "assetId": "HOTEL02_IMG_017:scene_image",
+   "wordId": "HOTEL02_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_017.webp",
+   "sha256": "a6c062c65952baaad8303b0808aa87340e44e8f5d0a471db5c8cd6a12505dc31",
+   "sizeBytes": 52524
+  },
+  {
+   "assetId": "HOTEL02_IMG_018:scene_image",
+   "wordId": "HOTEL02_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_018.webp",
+   "sha256": "f2b02ac8f4d102df582e3082ba08cc001c16a5f6c3f1dc6ee863a5c2f6f4849b",
+   "sizeBytes": 52904
+  },
+  {
+   "assetId": "HOTEL02_IMG_019:scene_image",
+   "wordId": "HOTEL02_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_019.webp",
+   "sha256": "a7cd67e399071a233c4fdd63cf0f97c5bb3bee75c7ccb68f0f6539e868283076",
+   "sizeBytes": 53212
+  },
+  {
+   "assetId": "HOTEL02_IMG_020:scene_image",
+   "wordId": "HOTEL02_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_020.webp",
+   "sha256": "b77769b6accc28032c4786bd8ddd3943cfaf2de61276f8cd7a5d81b60e85641b",
+   "sizeBytes": 50668
+  },
+  {
+   "assetId": "HOTEL02_IMG_021:scene_image",
+   "wordId": "HOTEL02_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_021.webp",
+   "sha256": "2ea90f894eb9a4ad04bb00faf68471b9d728215f2068f54cbcec3bd2219e7bcb",
+   "sizeBytes": 51126
+  },
+  {
+   "assetId": "HOTEL02_IMG_022:scene_image",
+   "wordId": "HOTEL02_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_022.webp",
+   "sha256": "d48efa236c0b88705812d8519e97d21c6da3f2fb7ce0d74c5af1c46c10cfb707",
+   "sizeBytes": 50372
+  },
+  {
+   "assetId": "HOTEL02_IMG_023:scene_image",
+   "wordId": "HOTEL02_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_023.webp",
+   "sha256": "59b7088215d3730159c9a8664a9835f9d723f9b4e88a8d5a30c33000176bf9ae",
+   "sizeBytes": 45146
+  },
+  {
+   "assetId": "HOTEL02_IMG_024:scene_image",
+   "wordId": "HOTEL02_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_024.webp",
+   "sha256": "716cd0efe6a679517014e3fc73a3b919acd7653472337777a63786ddca32eb9b",
+   "sizeBytes": 51246
+  },
+  {
+   "assetId": "HOTEL02_IMG_025:scene_image",
+   "wordId": "HOTEL02_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_025.webp",
+   "sha256": "8ac106746278d4b45b6bba39e1bf10b3b59f8267688df54679c50f5a8cd4a5c6",
+   "sizeBytes": 53662
+  },
+  {
+   "assetId": "HOTEL02_IMG_026:scene_image",
+   "wordId": "HOTEL02_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_026.webp",
+   "sha256": "3addf3d426b3964a62cbfcc5452ef6c9046539bd0dcaaf7e22c1af6053e797f0",
+   "sizeBytes": 50536
+  },
+  {
+   "assetId": "HOTEL02_IMG_027:scene_image",
+   "wordId": "HOTEL02_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_027.webp",
+   "sha256": "e8fa91be222e629f94225f2588741320ecfda7c3d5a03926f2e84a40acb55f98",
+   "sizeBytes": 47376
+  },
+  {
+   "assetId": "HOTEL02_IMG_028:scene_image",
+   "wordId": "HOTEL02_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_028.webp",
+   "sha256": "57762fc8059df72745294623c17a81a60b895aaa700f0980970cafb90ad9ebd3",
+   "sizeBytes": 49222
+  },
+  {
+   "assetId": "HOTEL02_IMG_029:scene_image",
+   "wordId": "HOTEL02_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_029.webp",
+   "sha256": "e9aa9a77abc876d8e810e665699522269ec5af81b2eb7e6df27072c498f7ed7a",
+   "sizeBytes": 50110
+  },
+  {
+   "assetId": "HOTEL02_IMG_030:scene_image",
+   "wordId": "HOTEL02_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_030.webp",
+   "sha256": "3bd6affcb93862a5598aecb80dc7e618af826dd144192f660db6756d1f00497d",
+   "sizeBytes": 48484
+  },
+  {
+   "assetId": "HOTEL02_IMG_031:scene_image",
+   "wordId": "HOTEL02_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_031.webp",
+   "sha256": "b3fe00818ad36002886493e2c0fdb195893bc202a7f1939892241403503b56f7",
+   "sizeBytes": 47694
+  },
+  {
+   "assetId": "HOTEL02_IMG_032:scene_image",
+   "wordId": "HOTEL02_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_032.webp",
+   "sha256": "d5a857fa5eb89cab401aeca3402f80dd768977a71d60aa683225af1d39bc6684",
+   "sizeBytes": 50536
+  },
+  {
+   "assetId": "HOTEL02_IMG_033:scene_image",
+   "wordId": "HOTEL02_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_033.webp",
+   "sha256": "7082e1f09955033597a5ef1be159432758b4fabfac59cc27f841c99477e0d0cf",
+   "sizeBytes": 53220
+  },
+  {
+   "assetId": "HOTEL02_IMG_034:scene_image",
+   "wordId": "HOTEL02_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_034.webp",
+   "sha256": "422cab65f5a3cc086ae1db1d775173d7624eb10130ece3aab656c3e943dea142",
+   "sizeBytes": 49674
+  },
+  {
+   "assetId": "HOTEL02_IMG_035:scene_image",
+   "wordId": "HOTEL02_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_035.webp",
+   "sha256": "79dc0e48e3b28a79f1897761fe16791b5ef4d9044faa457ddc760207edfa760f",
+   "sizeBytes": 49944
+  },
+  {
+   "assetId": "HOTEL02_IMG_036:scene_image",
+   "wordId": "HOTEL02_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL02_IMG_036.webp",
+   "sha256": "40f98a99a1bae43ab940fc30b36ed1bdfcee4db118080b00005c92fabcd0bea2",
+   "sizeBytes": 49596
+  },
+  {
+   "assetId": "HOTEL03_IMG_001:scene_image",
+   "wordId": "HOTEL03_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_001.webp",
+   "sha256": "5d6a9c3c50ec2e874006991d734a7d8de009e70bddbba00651e876879c4eece6",
+   "sizeBytes": 54302
+  },
+  {
+   "assetId": "HOTEL03_IMG_002:scene_image",
+   "wordId": "HOTEL03_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_002.webp",
+   "sha256": "562060ef3b1ae27b31ff81e0abf9da483e1bce868d0d56b1b4257258155b81f6",
+   "sizeBytes": 45464
+  },
+  {
+   "assetId": "HOTEL03_IMG_003:scene_image",
+   "wordId": "HOTEL03_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_003.webp",
+   "sha256": "0cd8bec703dc65e58760b1880b88ed0f6fa28a745394c026aecb867b6d46cb0c",
+   "sizeBytes": 50900
+  },
+  {
+   "assetId": "HOTEL03_IMG_004:scene_image",
+   "wordId": "HOTEL03_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_004.webp",
+   "sha256": "8d4fbabb4adbb2ae145e220b92aa4cc7f9a0f880894b19d001b19d5060fcb594",
+   "sizeBytes": 50576
+  },
+  {
+   "assetId": "HOTEL03_IMG_005:scene_image",
+   "wordId": "HOTEL03_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_005.webp",
+   "sha256": "3648af86505d64f86d99d86a8d5d1fbe1c4ab9f8e097271763e637b09dabc1bc",
+   "sizeBytes": 43894
+  },
+  {
+   "assetId": "HOTEL03_IMG_006:scene_image",
+   "wordId": "HOTEL03_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_006.webp",
+   "sha256": "d325c49204f7391e31ba8fafaef2cca86c44cf9f0dc51efa3a3e0a1db9682cf3",
+   "sizeBytes": 42814
+  },
+  {
+   "assetId": "HOTEL03_IMG_007:scene_image",
+   "wordId": "HOTEL03_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_007.webp",
+   "sha256": "399d8d73da51f4a4ed3d9147b2479041a25057c5da899317c78bccede4c240b7",
+   "sizeBytes": 47932
+  },
+  {
+   "assetId": "HOTEL03_IMG_008:scene_image",
+   "wordId": "HOTEL03_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_008.webp",
+   "sha256": "29eab19937b5c1115819b44028b5742a4bcf65bdca2bb2fc0e9445e4ce5eb903",
+   "sizeBytes": 47480
+  },
+  {
+   "assetId": "HOTEL03_IMG_009:scene_image",
+   "wordId": "HOTEL03_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_009.webp",
+   "sha256": "1630c6bbdea1e330b552ce1f8f5e41d00500b48029e036b172e2afe1b11ea299",
+   "sizeBytes": 52678
+  },
+  {
+   "assetId": "HOTEL03_IMG_010:scene_image",
+   "wordId": "HOTEL03_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_010.webp",
+   "sha256": "1269014ec844ccd4b8f94a322ad07a07387dd9f0a80f0306b9ceb90419611a04",
+   "sizeBytes": 55566
+  },
+  {
+   "assetId": "HOTEL03_IMG_011:scene_image",
+   "wordId": "HOTEL03_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_011.webp",
+   "sha256": "294c28cb04de68f7d0f40b83907a46dbc257e2d7b15a5cecb794846fdc5500e4",
+   "sizeBytes": 46998
+  },
+  {
+   "assetId": "HOTEL03_IMG_012:scene_image",
+   "wordId": "HOTEL03_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_012.webp",
+   "sha256": "4ee222f0ec39ad34d490698afebf8a1886598089c400216d09f86f98a36eb098",
+   "sizeBytes": 54402
+  },
+  {
+   "assetId": "HOTEL03_IMG_013:scene_image",
+   "wordId": "HOTEL03_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_013.webp",
+   "sha256": "c1b4532f4d0e4f31be8ae1a48530b6c76a5ca8ccbb013e6db6bf7bcf06f2a2b0",
+   "sizeBytes": 50222
+  },
+  {
+   "assetId": "HOTEL03_IMG_014:scene_image",
+   "wordId": "HOTEL03_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_014.webp",
+   "sha256": "65edfab49cb16ba59a45ac4bf1449b8772702d2afe56d07af92c373c63c450c1",
+   "sizeBytes": 47134
+  },
+  {
+   "assetId": "HOTEL03_IMG_015:scene_image",
+   "wordId": "HOTEL03_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_015.webp",
+   "sha256": "3c0d3be6351a61d69e51a9be0eee6d6c0e832b0a07e3a8f7795e9d4908a69a3b",
+   "sizeBytes": 45274
+  },
+  {
+   "assetId": "HOTEL03_IMG_016:scene_image",
+   "wordId": "HOTEL03_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_016.webp",
+   "sha256": "ff54d13a254918328b67850cc37392b341bc4e9fb613e09a54a10bd3b7d59755",
+   "sizeBytes": 49332
+  },
+  {
+   "assetId": "HOTEL03_IMG_017:scene_image",
+   "wordId": "HOTEL03_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_017.webp",
+   "sha256": "5c1da89fc5ba500ad1cda24d4dab0386a06acac3b87e64bf1aca6123b0d49d59",
+   "sizeBytes": 58588
+  },
+  {
+   "assetId": "HOTEL03_IMG_018:scene_image",
+   "wordId": "HOTEL03_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_018.webp",
+   "sha256": "53629dffc7283e0abfd2217128e7e83255cedbe52a1888ff858e04be6ff4c93a",
+   "sizeBytes": 52956
+  },
+  {
+   "assetId": "HOTEL03_IMG_019:scene_image",
+   "wordId": "HOTEL03_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_019.webp",
+   "sha256": "8c7ae6759aa6c3d9e955ede9d0741ef142b8fd635a9a10c15b1ba0d8f635f0a6",
+   "sizeBytes": 52672
+  },
+  {
+   "assetId": "HOTEL03_IMG_020:scene_image",
+   "wordId": "HOTEL03_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_020.webp",
+   "sha256": "189ef9adce06c79b2ef4a87f670513100108ff26fe77a70816ec2e34e315d7d3",
+   "sizeBytes": 53234
+  },
+  {
+   "assetId": "HOTEL03_IMG_021:scene_image",
+   "wordId": "HOTEL03_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_021.webp",
+   "sha256": "3d48a07da0c9a7fbf06434187fdad6429909935a83e3bb6103d5eb64604fe44b",
+   "sizeBytes": 60950
+  },
+  {
+   "assetId": "HOTEL03_IMG_022:scene_image",
+   "wordId": "HOTEL03_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_022.webp",
+   "sha256": "07ab49327590faac8a2630f930e7245f198daa5bc39e286d650626eab6464cce",
+   "sizeBytes": 79282
+  },
+  {
+   "assetId": "HOTEL03_IMG_023:scene_image",
+   "wordId": "HOTEL03_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_023.webp",
+   "sha256": "6b251c282e2491936cfec8259f3f5307a6bc9db102d511496d531a804c37cbe2",
+   "sizeBytes": 56742
+  },
+  {
+   "assetId": "HOTEL03_IMG_024:scene_image",
+   "wordId": "HOTEL03_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_024.webp",
+   "sha256": "f57b5e00d7776fa7a1e3587ec56bcdceae3cadbd43c5f321638532f007ca6d10",
+   "sizeBytes": 66916
+  },
+  {
+   "assetId": "HOTEL03_IMG_025:scene_image",
+   "wordId": "HOTEL03_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_025.webp",
+   "sha256": "3916463207c00b6a929280e55bed5408d0c9959a9c0037980e17a88d6747730c",
+   "sizeBytes": 53406
+  },
+  {
+   "assetId": "HOTEL03_IMG_026:scene_image",
+   "wordId": "HOTEL03_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_026.webp",
+   "sha256": "72d434d195e13465c6fa49f6fd049e9063ff07921828157fe09800aaf336d374",
+   "sizeBytes": 42328
+  },
+  {
+   "assetId": "HOTEL03_IMG_027:scene_image",
+   "wordId": "HOTEL03_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_027.webp",
+   "sha256": "3ddefd321fed006dfce26aa6815a83dd90af1cc79831d6a260a2fded7b95334f",
+   "sizeBytes": 48890
+  },
+  {
+   "assetId": "HOTEL03_IMG_028:scene_image",
+   "wordId": "HOTEL03_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_028.webp",
+   "sha256": "d9896048198eec2656c4a37ea353759656bd5046d88efc327bb8868f3799d118",
+   "sizeBytes": 44272
+  },
+  {
+   "assetId": "HOTEL03_IMG_029:scene_image",
+   "wordId": "HOTEL03_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_029.webp",
+   "sha256": "94de301530fce430f1219460e52b617deaa0c4e5571cc3b26834ac31559437fd",
+   "sizeBytes": 52944
+  },
+  {
+   "assetId": "HOTEL03_IMG_030:scene_image",
+   "wordId": "HOTEL03_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_030.webp",
+   "sha256": "f4ba955edca80b4c4035baa16431bcf765b707dac97998f6933744fa186c0d50",
+   "sizeBytes": 50062
+  },
+  {
+   "assetId": "HOTEL03_IMG_031:scene_image",
+   "wordId": "HOTEL03_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_031.webp",
+   "sha256": "2483bf48eb5a8c933ece66f948fcc3531ca985b954039ad359d9286379b836bc",
+   "sizeBytes": 49978
+  },
+  {
+   "assetId": "HOTEL03_IMG_032:scene_image",
+   "wordId": "HOTEL03_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_032.webp",
+   "sha256": "84c8aec6f8ffce336d7c46ebc74383ca741b99553ce59a124f6f68238ab6ab49",
+   "sizeBytes": 51882
+  },
+  {
+   "assetId": "HOTEL03_IMG_033:scene_image",
+   "wordId": "HOTEL03_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_033.webp",
+   "sha256": "d340fb2d95030e2df1b16ce87d111bbd8275c396dc086c5bfd2cf581740be246",
+   "sizeBytes": 49782
+  },
+  {
+   "assetId": "HOTEL03_IMG_034:scene_image",
+   "wordId": "HOTEL03_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_034.webp",
+   "sha256": "dbf07569de981fd20de6ae6125cf89729b05e443ff141f166f1aa206673d4d5e",
+   "sizeBytes": 46776
+  },
+  {
+   "assetId": "HOTEL03_IMG_035:scene_image",
+   "wordId": "HOTEL03_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_035.webp",
+   "sha256": "b9fe5ab39a7f12274d2f6ea78aca858d6cbb5ec7f784f31764b9619deb638164",
+   "sizeBytes": 42374
+  },
+  {
+   "assetId": "HOTEL03_IMG_036:scene_image",
+   "wordId": "HOTEL03_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL03_IMG_036.webp",
+   "sha256": "ff0625258ac67ca0b6b503f61fae10822955538083dfcadb4cc18f67dfa761d1",
+   "sizeBytes": 51234
+  },
+  {
+   "assetId": "HOTEL04_IMG_001:scene_image",
+   "wordId": "HOTEL04_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_001.webp",
+   "sha256": "530d71e8a0bca25b1a6d3422ca37cb19a387dea017e426a04d30202bc434266d",
+   "sizeBytes": 48770
+  },
+  {
+   "assetId": "HOTEL04_IMG_002:scene_image",
+   "wordId": "HOTEL04_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_002.webp",
+   "sha256": "b440f4c747d90a95c1d72a6f44aead4a03ddf04b2ae7ba362da586dcf8b664d3",
+   "sizeBytes": 36454
+  },
+  {
+   "assetId": "HOTEL04_IMG_003:scene_image",
+   "wordId": "HOTEL04_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_003.webp",
+   "sha256": "db69f2e543d9c49d5ed5108b5d6657f261a7d573a6534209d8db7f3b5dfa9b03",
+   "sizeBytes": 46984
+  },
+  {
+   "assetId": "HOTEL04_IMG_004:scene_image",
+   "wordId": "HOTEL04_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_004.webp",
+   "sha256": "5d20fba1feea97e63e031d62d01ce47ed97db7faa4da179177c93b3bd67d9e81",
+   "sizeBytes": 37740
+  },
+  {
+   "assetId": "HOTEL04_IMG_005:scene_image",
+   "wordId": "HOTEL04_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_005.webp",
+   "sha256": "2ae7a36c15287f34f304bc6c107a8162b6202f031c4ff974d46f9a1c20ed406b",
+   "sizeBytes": 45730
+  },
+  {
+   "assetId": "HOTEL04_IMG_006:scene_image",
+   "wordId": "HOTEL04_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_006.webp",
+   "sha256": "428fa578358a28e4cb3cff4559347ad725291ae65dff87a153197e3fa504ab8d",
+   "sizeBytes": 51788
+  },
+  {
+   "assetId": "HOTEL04_IMG_007:scene_image",
+   "wordId": "HOTEL04_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_007.webp",
+   "sha256": "90508a0187296948c98bc5c239eb610e71f19f54449fbe9877f45db46cc90a70",
+   "sizeBytes": 46076
+  },
+  {
+   "assetId": "HOTEL04_IMG_008:scene_image",
+   "wordId": "HOTEL04_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_008.webp",
+   "sha256": "b60cfcd428a0f9cb4252c649b038712f1f398d8bc7b7bc2f208e78aebfaca635",
+   "sizeBytes": 50652
+  },
+  {
+   "assetId": "HOTEL04_IMG_009:scene_image",
+   "wordId": "HOTEL04_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_009.webp",
+   "sha256": "e0a7328fc103ffe53fb92594b0849bb164c93347b1cb2ba84074ec860363657e",
+   "sizeBytes": 49194
+  },
+  {
+   "assetId": "HOTEL04_IMG_010:scene_image",
+   "wordId": "HOTEL04_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_010.webp",
+   "sha256": "a1d34caeb5deb28fd9a59ae5e2b7022a29801e2be8f71e675520a184181458ed",
+   "sizeBytes": 44192
+  },
+  {
+   "assetId": "HOTEL04_IMG_011:scene_image",
+   "wordId": "HOTEL04_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_011.webp",
+   "sha256": "6c2ab2f5861bedbce2ef3e5a8ddd3a360568c16a3d778a784faf5ba1d8599382",
+   "sizeBytes": 50352
+  },
+  {
+   "assetId": "HOTEL04_IMG_012:scene_image",
+   "wordId": "HOTEL04_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_012.webp",
+   "sha256": "04a94436a52e37075a865c28370767a46f5018f652675b227c60cc935a9ff029",
+   "sizeBytes": 48372
+  },
+  {
+   "assetId": "HOTEL04_IMG_013:scene_image",
+   "wordId": "HOTEL04_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_013.webp",
+   "sha256": "903be3a248435e36643fd49085e0f2571d5b2907480b151679afe04896bb0724",
+   "sizeBytes": 53094
+  },
+  {
+   "assetId": "HOTEL04_IMG_014:scene_image",
+   "wordId": "HOTEL04_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_014.webp",
+   "sha256": "dddb9e10ca0f3590d0d6ef6c38543c77e1a2bce718048928541d56fc47394209",
+   "sizeBytes": 49062
+  },
+  {
+   "assetId": "HOTEL04_IMG_015:scene_image",
+   "wordId": "HOTEL04_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_015.webp",
+   "sha256": "ef8a401dbd5be0dd339e1a23f05980adc363ebcbc4c2f2e1b5bbd3815d18f60c",
+   "sizeBytes": 53910
+  },
+  {
+   "assetId": "HOTEL04_IMG_016:scene_image",
+   "wordId": "HOTEL04_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_016.webp",
+   "sha256": "e896f2143ff32ed766c8f76e2b2b4c1a2bb44651b013abe658bf4210f4a445af",
+   "sizeBytes": 47728
+  },
+  {
+   "assetId": "HOTEL04_IMG_017:scene_image",
+   "wordId": "HOTEL04_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_017.webp",
+   "sha256": "95fd7a864644bca21cada93fd9974183e3d697560a0a74453870ee7f96ad5075",
+   "sizeBytes": 57166
+  },
+  {
+   "assetId": "HOTEL04_IMG_018:scene_image",
+   "wordId": "HOTEL04_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_018.webp",
+   "sha256": "3b41ae4f38facf575efaa51da37c4b2592d308e6ae0995ce78b63c14bef43045",
+   "sizeBytes": 47396
+  },
+  {
+   "assetId": "HOTEL04_IMG_019:scene_image",
+   "wordId": "HOTEL04_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_019.webp",
+   "sha256": "fa1ba15776b1a6327463ff6a07b42ffaf8178aa88b2f356ea080d00524fba76d",
+   "sizeBytes": 52500
+  },
+  {
+   "assetId": "HOTEL04_IMG_020:scene_image",
+   "wordId": "HOTEL04_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_020.webp",
+   "sha256": "74d6b545701adbb4c2b5bf51342345d8e51da8f9c4028228da427af17162d445",
+   "sizeBytes": 46932
+  },
+  {
+   "assetId": "HOTEL04_IMG_021:scene_image",
+   "wordId": "HOTEL04_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_021.webp",
+   "sha256": "27794f0c46f2f2358cb68a67dea93fd90605678b6184c45f71c4201eb174a757",
+   "sizeBytes": 53270
+  },
+  {
+   "assetId": "HOTEL04_IMG_022:scene_image",
+   "wordId": "HOTEL04_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_022.webp",
+   "sha256": "63d39107586411660e856c374c32e34ecaabd86a04ed833dfc4095d864129aa1",
+   "sizeBytes": 44358
+  },
+  {
+   "assetId": "HOTEL04_IMG_023:scene_image",
+   "wordId": "HOTEL04_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_023.webp",
+   "sha256": "4e6338878a8df8d50daf1728095ce257abecfc0fe98d5f53fece9fe8b5005d02",
+   "sizeBytes": 52740
+  },
+  {
+   "assetId": "HOTEL04_IMG_024:scene_image",
+   "wordId": "HOTEL04_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_024.webp",
+   "sha256": "fbaa86f89502787d5189183f60e61faa656c7ace8b2d284b3073e622f02cf337",
+   "sizeBytes": 62596
+  },
+  {
+   "assetId": "HOTEL04_IMG_025:scene_image",
+   "wordId": "HOTEL04_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_025.webp",
+   "sha256": "024b46eedf71bba083baee389542ebab10ff324f524416213c556e915bed38c7",
+   "sizeBytes": 53522
+  },
+  {
+   "assetId": "HOTEL04_IMG_026:scene_image",
+   "wordId": "HOTEL04_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_026.webp",
+   "sha256": "2993b9b60b3067759b81471f7409ef8488dd3f610273a9e17c259e0b07d9031f",
+   "sizeBytes": 42912
+  },
+  {
+   "assetId": "HOTEL04_IMG_027:scene_image",
+   "wordId": "HOTEL04_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_027.webp",
+   "sha256": "98f1347913457769d6b6f015664588d93c845a95ddf4054e3529017ac3b63b43",
+   "sizeBytes": 53092
+  },
+  {
+   "assetId": "HOTEL04_IMG_028:scene_image",
+   "wordId": "HOTEL04_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_028.webp",
+   "sha256": "87863bb4de417a6bdd4164275a48a1e89984c99ade315a6a8a1022d3284d52d8",
+   "sizeBytes": 42382
+  },
+  {
+   "assetId": "HOTEL04_IMG_029:scene_image",
+   "wordId": "HOTEL04_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_029.webp",
+   "sha256": "9c22e9cc63fd9c9f72fc85c38ad3e902261d2da833b2b1a98b8987624def67bf",
+   "sizeBytes": 53776
+  },
+  {
+   "assetId": "HOTEL04_IMG_030:scene_image",
+   "wordId": "HOTEL04_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_030.webp",
+   "sha256": "089b524619ed9810e6b8d85f678efae30a03ef865fee3c8d7ca61fb7d7ca57d3",
+   "sizeBytes": 52544
+  },
+  {
+   "assetId": "HOTEL04_IMG_031:scene_image",
+   "wordId": "HOTEL04_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_031.webp",
+   "sha256": "617f2c2a11656072288f3b486d02f52094aa5d70a5bc984e995b18c521ea3ad6",
+   "sizeBytes": 51638
+  },
+  {
+   "assetId": "HOTEL04_IMG_032:scene_image",
+   "wordId": "HOTEL04_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_032.webp",
+   "sha256": "d705098e4fe238691d177b3057d15bdce8665766571ef5a17f4c63ffe9419ddc",
+   "sizeBytes": 51182
+  },
+  {
+   "assetId": "HOTEL04_IMG_033:scene_image",
+   "wordId": "HOTEL04_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_033.webp",
+   "sha256": "aecd3bb2c60e1bfe1bc936f5c81de5ae94798f3fe1870a3d62d7721a7b9292cf",
+   "sizeBytes": 53422
+  },
+  {
+   "assetId": "HOTEL04_IMG_034:scene_image",
+   "wordId": "HOTEL04_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_034.webp",
+   "sha256": "9441feca838cafdf926af80ad9c78d9eef7979b7b32b4f9b20cb472c29bac832",
+   "sizeBytes": 41372
+  },
+  {
+   "assetId": "HOTEL04_IMG_035:scene_image",
+   "wordId": "HOTEL04_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_035.webp",
+   "sha256": "b8b52251f3fb7420efc91455c6878e40278a07416e175250ab9ccbb29a9e2518",
+   "sizeBytes": 47872
+  },
+  {
+   "assetId": "HOTEL04_IMG_036:scene_image",
+   "wordId": "HOTEL04_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL04_IMG_036.webp",
+   "sha256": "9757d6ddb7a7d152ec9516c8f7f9e8771cd95355e7139d3e1b2a3513b0bae7ee",
+   "sizeBytes": 53932
+  },
+  {
+   "assetId": "HOTEL05_IMG_001:scene_image",
+   "wordId": "HOTEL05_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_001.webp",
+   "sha256": "d79e2ffde33501e7f327390eb46ae576b735afe592e25cb2c599631ec3232f7b",
+   "sizeBytes": 54530
+  },
+  {
+   "assetId": "HOTEL05_IMG_002:scene_image",
+   "wordId": "HOTEL05_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_002.webp",
+   "sha256": "64594f64ba5adb35919a68742438aae02c84104ab8e3711039a5408f829e6541",
+   "sizeBytes": 59368
+  },
+  {
+   "assetId": "HOTEL05_IMG_003:scene_image",
+   "wordId": "HOTEL05_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_003.webp",
+   "sha256": "80330b7e6cc05bffb658e028eafc9d8a92f105073a3b2ad4c2876f3c11c0edc5",
+   "sizeBytes": 56376
+  },
+  {
+   "assetId": "HOTEL05_IMG_004:scene_image",
+   "wordId": "HOTEL05_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_004.webp",
+   "sha256": "e7349f7723d2f028895ea9628d1908f55fe139d1386298e8e142c925a0c57837",
+   "sizeBytes": 56664
+  },
+  {
+   "assetId": "HOTEL05_IMG_005:scene_image",
+   "wordId": "HOTEL05_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_005.webp",
+   "sha256": "2c756ab83a558527a5fe8b8402d34c54c03d0dcb9825075f522b7ae48c2d798e",
+   "sizeBytes": 52894
+  },
+  {
+   "assetId": "HOTEL05_IMG_006:scene_image",
+   "wordId": "HOTEL05_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_006.webp",
+   "sha256": "7ee9f89bcc5401b2f0fcae0d71efb7d48ad3458a905d9d087e0add2472a276ba",
+   "sizeBytes": 54484
+  },
+  {
+   "assetId": "HOTEL05_IMG_007:scene_image",
+   "wordId": "HOTEL05_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_007.webp",
+   "sha256": "55c4f381268adc2d97d9b8b9c63883e41cc74e1d65976cb9b46ef0bc35dfb437",
+   "sizeBytes": 54134
+  },
+  {
+   "assetId": "HOTEL05_IMG_008:scene_image",
+   "wordId": "HOTEL05_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_008.webp",
+   "sha256": "1b31b3bc1256df2a4ac5e34ef054b7da518c55803662f47af85eac378c8d5ce5",
+   "sizeBytes": 56148
+  },
+  {
+   "assetId": "HOTEL05_IMG_009:scene_image",
+   "wordId": "HOTEL05_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_009.webp",
+   "sha256": "94d3016281d4d68c257718c6aa8771a0fa90785e9c86f80a8241ed21ae25bf71",
+   "sizeBytes": 54248
+  },
+  {
+   "assetId": "HOTEL05_IMG_010:scene_image",
+   "wordId": "HOTEL05_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_010.webp",
+   "sha256": "a59953ea2c5727183a1190ccecb10fc4f856c5ad798dc7d823c780deef83f4dc",
+   "sizeBytes": 48468
+  },
+  {
+   "assetId": "HOTEL05_IMG_011:scene_image",
+   "wordId": "HOTEL05_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_011.webp",
+   "sha256": "55a85062d74ac07d0868ffce94a2f89b7855767952cdcd9314c1bdad180aca28",
+   "sizeBytes": 56302
+  },
+  {
+   "assetId": "HOTEL05_IMG_012:scene_image",
+   "wordId": "HOTEL05_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_012.webp",
+   "sha256": "e4d0febe8119a2538bcfe6f4cf33e12e64fc662dfba8277c6bd6bd98049a29b3",
+   "sizeBytes": 51526
+  },
+  {
+   "assetId": "HOTEL05_IMG_013:scene_image",
+   "wordId": "HOTEL05_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_013.webp",
+   "sha256": "0ccfad3944f69ff09595e38337743559cb28fd47f707a47b21057a16a1bc29a0",
+   "sizeBytes": 50854
+  },
+  {
+   "assetId": "HOTEL05_IMG_014:scene_image",
+   "wordId": "HOTEL05_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_014.webp",
+   "sha256": "6799217b63355b0a90928c7e97f7aa06b80d5704b760c56c39f638b9192a4519",
+   "sizeBytes": 51774
+  },
+  {
+   "assetId": "HOTEL05_IMG_015:scene_image",
+   "wordId": "HOTEL05_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_015.webp",
+   "sha256": "e4ce82e51423feb034c4976d52ba294a1854149e50483cbea623a3009a5a76af",
+   "sizeBytes": 50892
+  },
+  {
+   "assetId": "HOTEL05_IMG_016:scene_image",
+   "wordId": "HOTEL05_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_016.webp",
+   "sha256": "5a9b9373ca0eb7a42f2672cda8fd89f8342d3e1b22b604ace047c882b9d75165",
+   "sizeBytes": 50656
+  },
+  {
+   "assetId": "HOTEL05_IMG_017:scene_image",
+   "wordId": "HOTEL05_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_017.webp",
+   "sha256": "a574995c8c9f60c72a92c504bdc497c78cf1fe1b8b482ffdf070f42636ea0a81",
+   "sizeBytes": 48910
+  },
+  {
+   "assetId": "HOTEL05_IMG_018:scene_image",
+   "wordId": "HOTEL05_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_018.webp",
+   "sha256": "b99bc5507e1d96bfa3f912b3113802d2d19930498052050f6ed569a0a2449d29",
+   "sizeBytes": 49612
+  },
+  {
+   "assetId": "HOTEL05_IMG_019:scene_image",
+   "wordId": "HOTEL05_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_019.webp",
+   "sha256": "9c9fa42d4ee789dbe2668d2dbca47dc92b9a5068aad2272ab9274876587906a7",
+   "sizeBytes": 51504
+  },
+  {
+   "assetId": "HOTEL05_IMG_020:scene_image",
+   "wordId": "HOTEL05_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_020.webp",
+   "sha256": "c79b2aa81d443017309c76aa96a2c172c8c7943ed18ead7f8e50a275be58e01a",
+   "sizeBytes": 54236
+  },
+  {
+   "assetId": "HOTEL05_IMG_021:scene_image",
+   "wordId": "HOTEL05_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_021.webp",
+   "sha256": "29f073152e00afa4c6d103111eaf29fb24a513cf21aa62e2251da66000b8dfd5",
+   "sizeBytes": 56220
+  },
+  {
+   "assetId": "HOTEL05_IMG_022:scene_image",
+   "wordId": "HOTEL05_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_022.webp",
+   "sha256": "a3ae5a96029da5a365b59d425477b5dd27727fbf979e14a834ae0063c15dfd19",
+   "sizeBytes": 54108
+  },
+  {
+   "assetId": "HOTEL05_IMG_023:scene_image",
+   "wordId": "HOTEL05_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_023.webp",
+   "sha256": "00368cea5b571e7d9c17d9e3d1f23e8e1f793e1fbbd535f6d4b8420058d8df49",
+   "sizeBytes": 55782
+  },
+  {
+   "assetId": "HOTEL05_IMG_024:scene_image",
+   "wordId": "HOTEL05_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_024.webp",
+   "sha256": "7f83e0277dc2abab401cb5ac330290fe37fadb05c826bcbd2b83c9812fe0771e",
+   "sizeBytes": 58652
+  },
+  {
+   "assetId": "HOTEL05_IMG_025:scene_image",
+   "wordId": "HOTEL05_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_025.webp",
+   "sha256": "7b9f5e31df222ee974d87938a47a7aeb4d74cb65301d68ed0f91682cf1731790",
+   "sizeBytes": 56512
+  },
+  {
+   "assetId": "HOTEL05_IMG_026:scene_image",
+   "wordId": "HOTEL05_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_026.webp",
+   "sha256": "1fbaf85855c3099dcd2de1ec75cb7a205980590f117004bcc43bfc309fedf0c4",
+   "sizeBytes": 54036
+  },
+  {
+   "assetId": "HOTEL05_IMG_027:scene_image",
+   "wordId": "HOTEL05_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_027.webp",
+   "sha256": "fcbea8cc1724171554ef814a45491ce5b895c144ec153fa5716be83aa90ffe3c",
+   "sizeBytes": 55252
+  },
+  {
+   "assetId": "HOTEL05_IMG_028:scene_image",
+   "wordId": "HOTEL05_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_028.webp",
+   "sha256": "d40a2ff494c64610822917f8d4291ec6c483381fe1ee28e43ab81c055084570a",
+   "sizeBytes": 52954
+  },
+  {
+   "assetId": "HOTEL05_IMG_029:scene_image",
+   "wordId": "HOTEL05_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_029.webp",
+   "sha256": "7a282cdf98fdd1d03e0edd1f7dafa96118a695477c7bd0949a5144c30de8dbb8",
+   "sizeBytes": 54476
+  },
+  {
+   "assetId": "HOTEL05_IMG_030:scene_image",
+   "wordId": "HOTEL05_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_030.webp",
+   "sha256": "9f3ebca6aae555c20a46d1e8cbf15873d28ea9bc348be645d33468dcc5e70a04",
+   "sizeBytes": 52302
+  },
+  {
+   "assetId": "HOTEL05_IMG_031:scene_image",
+   "wordId": "HOTEL05_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_031.webp",
+   "sha256": "0b8848bc1b379b0b872da083f86577618566a1e18a63c4ac77374f39d94e27f6",
+   "sizeBytes": 56022
+  },
+  {
+   "assetId": "HOTEL05_IMG_032:scene_image",
+   "wordId": "HOTEL05_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_032.webp",
+   "sha256": "d01284ebd3fd31b30b9528b3bb3fe18a1d20bd56de63aba73010e9bb4482c052",
+   "sizeBytes": 51868
+  },
+  {
+   "assetId": "HOTEL05_IMG_033:scene_image",
+   "wordId": "HOTEL05_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_033.webp",
+   "sha256": "8de3bcde21da844381645a9fc3838e0b46f70f8bd2e2d853b1bdd04488f8a178",
+   "sizeBytes": 63398
+  },
+  {
+   "assetId": "HOTEL05_IMG_034:scene_image",
+   "wordId": "HOTEL05_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_034.webp",
+   "sha256": "d693731531d630cadfaadbb49f0cce60f773b64c44e7b7232070b5eed4242f8f",
+   "sizeBytes": 58354
+  },
+  {
+   "assetId": "HOTEL05_IMG_035:scene_image",
+   "wordId": "HOTEL05_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_035.webp",
+   "sha256": "a45735a7e7083f414a5653f6d23c3f7ba7adc4988ca44e973784ee3a8a0ec488",
+   "sizeBytes": 44440
+  },
+  {
+   "assetId": "HOTEL05_IMG_036:scene_image",
+   "wordId": "HOTEL05_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL05_IMG_036.webp",
+   "sha256": "95214e2f38aad59c0da1462efa5643471f8bff56c37ee168bc31e6724ab06708",
+   "sizeBytes": 54182
+  },
+  {
+   "assetId": "HOTEL06_IMG_001:scene_image",
+   "wordId": "HOTEL06_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_001.webp",
+   "sha256": "3d614bc6c8ec02da3361054b048161df350dc5a496752000a7d8c162cd5f7537",
+   "sizeBytes": 54704
+  },
+  {
+   "assetId": "HOTEL06_IMG_002:scene_image",
+   "wordId": "HOTEL06_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_002.webp",
+   "sha256": "ab2c45d2b5c6899c44a24cf79f566e7ce7f89f3fdd1d367b6461c8c6b0572fc6",
+   "sizeBytes": 46176
+  },
+  {
+   "assetId": "HOTEL06_IMG_003:scene_image",
+   "wordId": "HOTEL06_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_003.webp",
+   "sha256": "ca2575cbfca7d525f3fa468ce93ff03a9fc16464a0189b3383503d4a0941b0d5",
+   "sizeBytes": 50740
+  },
+  {
+   "assetId": "HOTEL06_IMG_004:scene_image",
+   "wordId": "HOTEL06_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_004.webp",
+   "sha256": "74f2dce471d6fe6d1d3952e73ac4b2795a42a961535f87f39ac72c5ddc5ce958",
+   "sizeBytes": 52412
+  },
+  {
+   "assetId": "HOTEL06_IMG_005:scene_image",
+   "wordId": "HOTEL06_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_005.webp",
+   "sha256": "4eb67063bc52537eb119d8b47e9817cf4b0c4c335bc3b66ec383d1377e61ebd3",
+   "sizeBytes": 53976
+  },
+  {
+   "assetId": "HOTEL06_IMG_006:scene_image",
+   "wordId": "HOTEL06_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_006.webp",
+   "sha256": "dd82ce6d01dab702c18a8ba6b3b2a456ca5d9f6bf48bcec457fa4916fd781ac5",
+   "sizeBytes": 53482
+  },
+  {
+   "assetId": "HOTEL06_IMG_007:scene_image",
+   "wordId": "HOTEL06_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_007.webp",
+   "sha256": "16cfbb655ced044bb87ad51ed162aba9bcc5358830c341f5b4f66257d529a257",
+   "sizeBytes": 55348
+  },
+  {
+   "assetId": "HOTEL06_IMG_008:scene_image",
+   "wordId": "HOTEL06_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_008.webp",
+   "sha256": "133f281ec4ad4225e35bcbdb954f2736cb8373ce8c88488f6cc786875f6c4f4b",
+   "sizeBytes": 48872
+  },
+  {
+   "assetId": "HOTEL06_IMG_009:scene_image",
+   "wordId": "HOTEL06_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_009.webp",
+   "sha256": "4f8dfdf816ea774095c31035ebd3b3e9e80bff45eaa6fba07482e6975fbca937",
+   "sizeBytes": 52850
+  },
+  {
+   "assetId": "HOTEL06_IMG_010:scene_image",
+   "wordId": "HOTEL06_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_010.webp",
+   "sha256": "a66f348ad18deb2b80aa0bf0b1145321696101a885684965327423d463352d1d",
+   "sizeBytes": 39174
+  },
+  {
+   "assetId": "HOTEL06_IMG_011:scene_image",
+   "wordId": "HOTEL06_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_011.webp",
+   "sha256": "0f9185902908da640ac1d50fd2844e77027184bbaf2a52abf0f36e6acfa24633",
+   "sizeBytes": 49594
+  },
+  {
+   "assetId": "HOTEL06_IMG_012:scene_image",
+   "wordId": "HOTEL06_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_012.webp",
+   "sha256": "4cc92ba30fb7c7f44afb9d78795082e7a81420b9cd3914a2278fcadcc394b526",
+   "sizeBytes": 43242
+  },
+  {
+   "assetId": "HOTEL06_IMG_013:scene_image",
+   "wordId": "HOTEL06_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_013.webp",
+   "sha256": "4fa442037cf6faa00e2b700aeb816b1eef494fd71ce64a9eb558a2213e8674e5",
+   "sizeBytes": 49252
+  },
+  {
+   "assetId": "HOTEL06_IMG_014:scene_image",
+   "wordId": "HOTEL06_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_014.webp",
+   "sha256": "34ca4754caaea780d376d90f607ce20dd8603586f3e1013e6e7b970a63166e8f",
+   "sizeBytes": 46976
+  },
+  {
+   "assetId": "HOTEL06_IMG_015:scene_image",
+   "wordId": "HOTEL06_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_015.webp",
+   "sha256": "0e3948d0c387f43e2d8c00ee45ea4d7df5f6aa799c0670f375e11e9d32cedd89",
+   "sizeBytes": 40436
+  },
+  {
+   "assetId": "HOTEL06_IMG_016:scene_image",
+   "wordId": "HOTEL06_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_016.webp",
+   "sha256": "49d2159388864c80d57fdce06b48a4e7e25469a5bcad2a842d9953a157c2c20e",
+   "sizeBytes": 51498
+  },
+  {
+   "assetId": "HOTEL06_IMG_017:scene_image",
+   "wordId": "HOTEL06_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_017.webp",
+   "sha256": "756cd00a8568a3ca41b1ffb425c0ea67a5ebe1e12d4cd87e1591551701791647",
+   "sizeBytes": 51972
+  },
+  {
+   "assetId": "HOTEL06_IMG_018:scene_image",
+   "wordId": "HOTEL06_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_018.webp",
+   "sha256": "fe13599b8555b26b36bb472c1fc9b8c525de2e717e607fdb3a7aa6c847ef6ea3",
+   "sizeBytes": 44940
+  },
+  {
+   "assetId": "HOTEL06_IMG_019:scene_image",
+   "wordId": "HOTEL06_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_019.webp",
+   "sha256": "b999f8420e960cf6722594497a60b3b4d168bd533b0a2fac1304c6f1729aace9",
+   "sizeBytes": 49582
+  },
+  {
+   "assetId": "HOTEL06_IMG_020:scene_image",
+   "wordId": "HOTEL06_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_020.webp",
+   "sha256": "fc5242fc89daccc21e542851ec582a0ee47d1a0d84563669f640d3a89d70d301",
+   "sizeBytes": 46546
+  },
+  {
+   "assetId": "HOTEL06_IMG_021:scene_image",
+   "wordId": "HOTEL06_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_021.webp",
+   "sha256": "806fb5346f271ded43a3a23e4634e1fc2c68f50325c3864ed16a5c676f731307",
+   "sizeBytes": 51888
+  },
+  {
+   "assetId": "HOTEL06_IMG_022:scene_image",
+   "wordId": "HOTEL06_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_022.webp",
+   "sha256": "32c0e71a052b0951c202751cbfa64add9c1e141d3aef374a92da602a5f6065f8",
+   "sizeBytes": 45306
+  },
+  {
+   "assetId": "HOTEL06_IMG_023:scene_image",
+   "wordId": "HOTEL06_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_023.webp",
+   "sha256": "1b3645c9b83d1db45ce764ced1da34471a56e212ee6e1fa3127f0b6a1869a217",
+   "sizeBytes": 45688
+  },
+  {
+   "assetId": "HOTEL06_IMG_024:scene_image",
+   "wordId": "HOTEL06_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_024.webp",
+   "sha256": "e04a79fe6feba572ae6a38a0a627fec45da461f23342ffd1ab1460cddca4336c",
+   "sizeBytes": 45848
+  },
+  {
+   "assetId": "HOTEL06_IMG_025:scene_image",
+   "wordId": "HOTEL06_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_025.webp",
+   "sha256": "93b4a5abf7584acde96dfce1d9d50b3d7a7350ccd57b6056974590cd68690a3b",
+   "sizeBytes": 53008
+  },
+  {
+   "assetId": "HOTEL06_IMG_026:scene_image",
+   "wordId": "HOTEL06_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_026.webp",
+   "sha256": "693aaec88082bbaeb6bc338ff9330cf66466cb5350e7ab3a356d8797808c2655",
+   "sizeBytes": 53174
+  },
+  {
+   "assetId": "HOTEL06_IMG_027:scene_image",
+   "wordId": "HOTEL06_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_027.webp",
+   "sha256": "010f9cf08f646e57e6d846cb11b914fc13a1aa4e6f860d787aa0aaf4d67074d4",
+   "sizeBytes": 50390
+  },
+  {
+   "assetId": "HOTEL06_IMG_028:scene_image",
+   "wordId": "HOTEL06_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_028.webp",
+   "sha256": "1406dc03cc1244075173c6f1502825229cf6da182431374b41f39d97c72d6504",
+   "sizeBytes": 49380
+  },
+  {
+   "assetId": "HOTEL06_IMG_029:scene_image",
+   "wordId": "HOTEL06_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_029.webp",
+   "sha256": "5a6ca3100b75c88f1afda21c4b4f0f0114045883e054900fd996599c29b57fa3",
+   "sizeBytes": 52930
+  },
+  {
+   "assetId": "HOTEL06_IMG_030:scene_image",
+   "wordId": "HOTEL06_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_030.webp",
+   "sha256": "c612c30400575e21b1bbd1618d2a6d88116e0f00fe4140aa25e746e1820fae8d",
+   "sizeBytes": 44938
+  },
+  {
+   "assetId": "HOTEL06_IMG_031:scene_image",
+   "wordId": "HOTEL06_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_031.webp",
+   "sha256": "af1306c98a62c3498efdf329575a20e843a51c33e7c5616b68ea36e5a3ad43b8",
+   "sizeBytes": 45662
+  },
+  {
+   "assetId": "HOTEL06_IMG_032:scene_image",
+   "wordId": "HOTEL06_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_032.webp",
+   "sha256": "13805f053edeeb6007447742c6778ddbf0e4937fe99c6aa9206632e4d4a088be",
+   "sizeBytes": 51172
+  },
+  {
+   "assetId": "HOTEL06_IMG_033:scene_image",
+   "wordId": "HOTEL06_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_033.webp",
+   "sha256": "d671409fe901d6d803cc18516a03e4076d626785ed960a5d6692354d6279f82b",
+   "sizeBytes": 49736
+  },
+  {
+   "assetId": "HOTEL06_IMG_034:scene_image",
+   "wordId": "HOTEL06_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_034.webp",
+   "sha256": "caa9de3cfbd4b711e1c8c30f3dfe22b28c8dd4d408bdbbaefe2f2b9fcaa55087",
+   "sizeBytes": 40792
+  },
+  {
+   "assetId": "HOTEL06_IMG_035:scene_image",
+   "wordId": "HOTEL06_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_035.webp",
+   "sha256": "566313c492eaffcccfe7f4e13965ac614a174cbe14fc629a41781145a7b9f3e4",
+   "sizeBytes": 47968
+  },
+  {
+   "assetId": "HOTEL06_IMG_036:scene_image",
+   "wordId": "HOTEL06_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL06_IMG_036.webp",
+   "sha256": "0f54a466915de28ace02228e835e8ce61f41e999861e555d8ffeeaac893fb4a8",
+   "sizeBytes": 54902
+  },
+  {
+   "assetId": "HOTEL07_IMG_001:scene_image",
+   "wordId": "HOTEL07_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_001.webp",
+   "sha256": "c069928573a2d008ad2b76abdfb43dcf2117769d2e5319effa70a93ae5c1e82d",
+   "sizeBytes": 59694
+  },
+  {
+   "assetId": "HOTEL07_IMG_002:scene_image",
+   "wordId": "HOTEL07_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_002.webp",
+   "sha256": "ec233c1b6b9ce987a46d475da24ce5b7e92f89192e3ba00b477a414ceb18ecdd",
+   "sizeBytes": 48746
+  },
+  {
+   "assetId": "HOTEL07_IMG_003:scene_image",
+   "wordId": "HOTEL07_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_003.webp",
+   "sha256": "93a13198d8199c72d7fb7d9acf66bac3f803771237d126bf5a1c0fbf38f489d6",
+   "sizeBytes": 48908
+  },
+  {
+   "assetId": "HOTEL07_IMG_004:scene_image",
+   "wordId": "HOTEL07_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_004.webp",
+   "sha256": "cabe3436aefb8a1aacb81018230acfa88e41690ca9cad10ceb92fd6e878d30b2",
+   "sizeBytes": 51252
+  },
+  {
+   "assetId": "HOTEL07_IMG_005:scene_image",
+   "wordId": "HOTEL07_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_005.webp",
+   "sha256": "1782e70298887ae96ab99bc32896a5c1640f8e9c355920574c89a2173aa67679",
+   "sizeBytes": 52160
+  },
+  {
+   "assetId": "HOTEL07_IMG_006:scene_image",
+   "wordId": "HOTEL07_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_006.webp",
+   "sha256": "2a1e7f5b286a9b7e625fb1f13c0407c45b55f2b74f0066a00b10e1c121409b48",
+   "sizeBytes": 55030
+  },
+  {
+   "assetId": "HOTEL07_IMG_007:scene_image",
+   "wordId": "HOTEL07_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_007.webp",
+   "sha256": "5f644a01d5485188edb9308dc42ef37786e74ce698eb4dd533e79f4dae0be2fa",
+   "sizeBytes": 53704
+  },
+  {
+   "assetId": "HOTEL07_IMG_008:scene_image",
+   "wordId": "HOTEL07_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_008.webp",
+   "sha256": "a35a0f56752e320c0224ad9c1b434801947f4dc9604ec870bc7cfa079c1b8f93",
+   "sizeBytes": 51652
+  },
+  {
+   "assetId": "HOTEL07_IMG_009:scene_image",
+   "wordId": "HOTEL07_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_009.webp",
+   "sha256": "10adf0913418eab5558b89ec0e6edd442e58d4a9ec6cc6e21818c6b3522e1b98",
+   "sizeBytes": 47314
+  },
+  {
+   "assetId": "HOTEL07_IMG_010:scene_image",
+   "wordId": "HOTEL07_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_010.webp",
+   "sha256": "e2bd15ae02588b09a3417263ba2de9cbed911d53a6d78098e62b02edcb6f58ed",
+   "sizeBytes": 52314
+  },
+  {
+   "assetId": "HOTEL07_IMG_011:scene_image",
+   "wordId": "HOTEL07_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_011.webp",
+   "sha256": "20401075a1914778bc24c68da9cb4a2187aa672954b5b809dec859843be822d9",
+   "sizeBytes": 52860
+  },
+  {
+   "assetId": "HOTEL07_IMG_012:scene_image",
+   "wordId": "HOTEL07_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_012.webp",
+   "sha256": "8e0dba83c527907d0c25d92ec727994899532021ce56e5b7baabe9bd1a3c0e16",
+   "sizeBytes": 52588
+  },
+  {
+   "assetId": "HOTEL07_IMG_013:scene_image",
+   "wordId": "HOTEL07_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_013.webp",
+   "sha256": "7129beaee41207ddc3d62898ca73e8c333ee88aa1da52352f40b3548b3d7b276",
+   "sizeBytes": 52718
+  },
+  {
+   "assetId": "HOTEL07_IMG_014:scene_image",
+   "wordId": "HOTEL07_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_014.webp",
+   "sha256": "ab7e03301a667e2db1915b1590c25d95b774c82633a2ce843ab8b143530d2400",
+   "sizeBytes": 50322
+  },
+  {
+   "assetId": "HOTEL07_IMG_015:scene_image",
+   "wordId": "HOTEL07_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_015.webp",
+   "sha256": "a56273cab389a6ec06556a07bd375c6758900174ec27bd83ba9460bf09ffe5e1",
+   "sizeBytes": 49790
+  },
+  {
+   "assetId": "HOTEL07_IMG_016:scene_image",
+   "wordId": "HOTEL07_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_016.webp",
+   "sha256": "f126b9ae96ee05f2c2c043efe7d511e52fa20a82729d35aeb5688c00026aa60a",
+   "sizeBytes": 50408
+  },
+  {
+   "assetId": "HOTEL07_IMG_017:scene_image",
+   "wordId": "HOTEL07_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_017.webp",
+   "sha256": "f7c03c1455415954b1135652ae9770f94218e32961e3f7b7f983521bd60f7f71",
+   "sizeBytes": 52278
+  },
+  {
+   "assetId": "HOTEL07_IMG_018:scene_image",
+   "wordId": "HOTEL07_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_018.webp",
+   "sha256": "7b1d601b988d193fbae986a1e250663e39cbc367f45c155cdbd960c6687d37bc",
+   "sizeBytes": 52486
+  },
+  {
+   "assetId": "HOTEL07_IMG_019:scene_image",
+   "wordId": "HOTEL07_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_019.webp",
+   "sha256": "5594b5e3d757d20dda931341b82aa05140cec082bbd33b7717797134e23f17b4",
+   "sizeBytes": 51526
+  },
+  {
+   "assetId": "HOTEL07_IMG_020:scene_image",
+   "wordId": "HOTEL07_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_020.webp",
+   "sha256": "bf8d6b0eef7c24fec28b26bf3e0666ca8932f7413e62fe83875d38501a51d86d",
+   "sizeBytes": 49608
+  },
+  {
+   "assetId": "HOTEL07_IMG_021:scene_image",
+   "wordId": "HOTEL07_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_021.webp",
+   "sha256": "b4352aac3b87017144e78cb0c98bd82c3d4f9e7d6c7b738420e8839e3aecc304",
+   "sizeBytes": 50704
+  },
+  {
+   "assetId": "HOTEL07_IMG_022:scene_image",
+   "wordId": "HOTEL07_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_022.webp",
+   "sha256": "fc7896dfea73f545635a999b60e9f6bc74c813ee2d3b7ca24e4afb04b63d513d",
+   "sizeBytes": 49030
+  },
+  {
+   "assetId": "HOTEL07_IMG_023:scene_image",
+   "wordId": "HOTEL07_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_023.webp",
+   "sha256": "32ee2472fca395d5985d6884ceac484aa361ec7cd157a3610c6c83c43393ecbb",
+   "sizeBytes": 46274
+  },
+  {
+   "assetId": "HOTEL07_IMG_024:scene_image",
+   "wordId": "HOTEL07_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_024.webp",
+   "sha256": "2a2f0f970e9c02cbaae87a2a94d303bc16591b1454af0e5def664bcfec9b01f1",
+   "sizeBytes": 50278
+  },
+  {
+   "assetId": "HOTEL07_IMG_025:scene_image",
+   "wordId": "HOTEL07_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_025.webp",
+   "sha256": "525a36cc0f15cab76fb8c7becb037af9ad9763c51b943f3bc46f7586aa0e6114",
+   "sizeBytes": 51320
+  },
+  {
+   "assetId": "HOTEL07_IMG_026:scene_image",
+   "wordId": "HOTEL07_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_026.webp",
+   "sha256": "04fca0ef3fc14a30dac88491d3d0c95f58867dad1c6da0ef585c798d383c6034",
+   "sizeBytes": 55396
+  },
+  {
+   "assetId": "HOTEL07_IMG_027:scene_image",
+   "wordId": "HOTEL07_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_027.webp",
+   "sha256": "e8950649c282e7593e45f93c198f9fe1cdb4d3f3399052347e047f68c86f1e73",
+   "sizeBytes": 53434
+  },
+  {
+   "assetId": "HOTEL07_IMG_028:scene_image",
+   "wordId": "HOTEL07_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_028.webp",
+   "sha256": "238bf8f6469759498b63a5e8f6273fda09df7ef07b9f81986987097a05e43d07",
+   "sizeBytes": 53504
+  },
+  {
+   "assetId": "HOTEL07_IMG_029:scene_image",
+   "wordId": "HOTEL07_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_029.webp",
+   "sha256": "c7b2c719894e888732147457be363f3c45373619850b31bda6c0a998154bfe0a",
+   "sizeBytes": 55916
+  },
+  {
+   "assetId": "HOTEL07_IMG_030:scene_image",
+   "wordId": "HOTEL07_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_030.webp",
+   "sha256": "e0bdff860e654336010c8528aef3d0c07840da6f345fec09678d2128389d5c0d",
+   "sizeBytes": 45388
+  },
+  {
+   "assetId": "HOTEL07_IMG_031:scene_image",
+   "wordId": "HOTEL07_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_031.webp",
+   "sha256": "a968bba56d69b2b80e04a44b773dc209c2c913e2cb2988143c79b90c3b521710",
+   "sizeBytes": 43184
+  },
+  {
+   "assetId": "HOTEL07_IMG_032:scene_image",
+   "wordId": "HOTEL07_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_032.webp",
+   "sha256": "06a3a853387362972a29f2d97245265fd133bf7be30c7c3ca5bb6f155bb0fb27",
+   "sizeBytes": 43088
+  },
+  {
+   "assetId": "HOTEL07_IMG_033:scene_image",
+   "wordId": "HOTEL07_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_033.webp",
+   "sha256": "17f947e3512c8ec909c660fbf6e6afe92a2c342c602fe3ee9e4df966d613d792",
+   "sizeBytes": 51560
+  },
+  {
+   "assetId": "HOTEL07_IMG_034:scene_image",
+   "wordId": "HOTEL07_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_034.webp",
+   "sha256": "8f698fece8074aa32a26723245bd594f7748c6f9626e17cf560347edb6750b56",
+   "sizeBytes": 54716
+  },
+  {
+   "assetId": "HOTEL07_IMG_035:scene_image",
+   "wordId": "HOTEL07_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_035.webp",
+   "sha256": "5b20de7615a21cd094b6490c9bf454c39e33f98745aa311bb64244c720f86519",
+   "sizeBytes": 53310
+  },
+  {
+   "assetId": "HOTEL07_IMG_036:scene_image",
+   "wordId": "HOTEL07_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL07_IMG_036.webp",
+   "sha256": "6468e650b56271abe8b8430715200f6e5c12aa3b9919ccafa2127a8e15617772",
+   "sizeBytes": 49880
+  },
+  {
+   "assetId": "HOTEL08_IMG_001:scene_image",
+   "wordId": "HOTEL08_IMG_001",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_001.webp",
+   "sha256": "24a9ad392b6b5359728d9f15befa8ef48f16b378f5600842272341cd6e18f2be",
+   "sizeBytes": 65982
+  },
+  {
+   "assetId": "HOTEL08_IMG_002:scene_image",
+   "wordId": "HOTEL08_IMG_002",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_002.webp",
+   "sha256": "ca6f7976fefca34627150ce5d038f47d5348e0fd345bc5db2adc45d6be4e4c17",
+   "sizeBytes": 51420
+  },
+  {
+   "assetId": "HOTEL08_IMG_003:scene_image",
+   "wordId": "HOTEL08_IMG_003",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_003.webp",
+   "sha256": "4b5caeeb099b196fbc93ede19fa8446640c08442d1e27b3e26d1a701816d1cd8",
+   "sizeBytes": 47224
+  },
+  {
+   "assetId": "HOTEL08_IMG_004:scene_image",
+   "wordId": "HOTEL08_IMG_004",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_004.webp",
+   "sha256": "8c8c2b4a2a6d1102af3d5ad3374d6c30701b1ab649dc77bafdd1304037f08042",
+   "sizeBytes": 49588
+  },
+  {
+   "assetId": "HOTEL08_IMG_005:scene_image",
+   "wordId": "HOTEL08_IMG_005",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_005.webp",
+   "sha256": "38f0c2760ce4a71b9f72c3ee6b4f54b629acc1972f54440291e1f42b3c2a4ef7",
+   "sizeBytes": 52368
+  },
+  {
+   "assetId": "HOTEL08_IMG_006:scene_image",
+   "wordId": "HOTEL08_IMG_006",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_006.webp",
+   "sha256": "86383825a359a78bee889dc04e3c4a1014cfb42f1d78e9fec6459d1e73602272",
+   "sizeBytes": 46424
+  },
+  {
+   "assetId": "HOTEL08_IMG_007:scene_image",
+   "wordId": "HOTEL08_IMG_007",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_007.webp",
+   "sha256": "a6528da7b86f6de6de986c13cfba748756f9f2569b9e1537d5c9b9083001b648",
+   "sizeBytes": 51100
+  },
+  {
+   "assetId": "HOTEL08_IMG_008:scene_image",
+   "wordId": "HOTEL08_IMG_008",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_008.webp",
+   "sha256": "8ddd16f86dd050786dbb945b7de8cb71355425de7d5589dbc34c4a3a8184b910",
+   "sizeBytes": 53210
+  },
+  {
+   "assetId": "HOTEL08_IMG_009:scene_image",
+   "wordId": "HOTEL08_IMG_009",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_009.webp",
+   "sha256": "b848c8198c91d48ad655d05922d0f196c44cd975d150b3b5b27d3584f4d74706",
+   "sizeBytes": 53900
+  },
+  {
+   "assetId": "HOTEL08_IMG_010:scene_image",
+   "wordId": "HOTEL08_IMG_010",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_010.webp",
+   "sha256": "ff23eed3f46c1325c03bdaa87d47ca2903045fe930341625829374021e01bd12",
+   "sizeBytes": 53162
+  },
+  {
+   "assetId": "HOTEL08_IMG_011:scene_image",
+   "wordId": "HOTEL08_IMG_011",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_011.webp",
+   "sha256": "330d3ee6d08e5e8284475409a55aceb980894e199cc71cbab8e683f6bf65e82f",
+   "sizeBytes": 48434
+  },
+  {
+   "assetId": "HOTEL08_IMG_012:scene_image",
+   "wordId": "HOTEL08_IMG_012",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_012.webp",
+   "sha256": "04b14e9f6f4c53c06834be264704bae4a198b29d42e36c224dea9db9a938536d",
+   "sizeBytes": 50210
+  },
+  {
+   "assetId": "HOTEL08_IMG_013:scene_image",
+   "wordId": "HOTEL08_IMG_013",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_013.webp",
+   "sha256": "2437649f122311c19867774539a6d3ad0d8680d2295fc739f5297da9b4ecfa73",
+   "sizeBytes": 50074
+  },
+  {
+   "assetId": "HOTEL08_IMG_014:scene_image",
+   "wordId": "HOTEL08_IMG_014",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_014.webp",
+   "sha256": "8d2e049053241bab0bd40c93360f1cadf466d66afa224496f98dc76b620753d2",
+   "sizeBytes": 48296
+  },
+  {
+   "assetId": "HOTEL08_IMG_015:scene_image",
+   "wordId": "HOTEL08_IMG_015",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_015.webp",
+   "sha256": "f332bacc2f91ab6834c898a93d277f743b1c32f33e1b4707f80456585c2542c0",
+   "sizeBytes": 49370
+  },
+  {
+   "assetId": "HOTEL08_IMG_023:scene_image",
+   "wordId": "HOTEL08_IMG_023",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_023.webp",
+   "sha256": "93ab334258de36355577dd28ba0f1f258f4b078cc055b65c5b72363a8c6a4b64",
+   "sizeBytes": 55820
+  },
+  {
+   "assetId": "HOTEL08_IMG_024:scene_image",
+   "wordId": "HOTEL08_IMG_024",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_024.webp",
+   "sha256": "e075fccb6329aeb5f7f8e2f25d9e5b4df695c9ced357d13d42c274bbfc749eef",
+   "sizeBytes": 51680
+  },
+  {
+   "assetId": "HOTEL08_IMG_016:scene_image",
+   "wordId": "HOTEL08_IMG_016",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_016.webp",
+   "sha256": "848105cf85bd864258fc967528c42e546ad35de827b12d61112315c798a80c33",
+   "sizeBytes": 51996
+  },
+  {
+   "assetId": "HOTEL08_IMG_017:scene_image",
+   "wordId": "HOTEL08_IMG_017",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_017.webp",
+   "sha256": "182b21c3c9d2fada832778cded7307ff23cef0cff9fe138061e5f83916c33655",
+   "sizeBytes": 54572
+  },
+  {
+   "assetId": "HOTEL08_IMG_018:scene_image",
+   "wordId": "HOTEL08_IMG_018",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_018.webp",
+   "sha256": "54cb4e24ae372d4041886020eeed1b31c4742146efd13c61542f41e06dca79a2",
+   "sizeBytes": 57502
+  },
+  {
+   "assetId": "HOTEL08_IMG_019:scene_image",
+   "wordId": "HOTEL08_IMG_019",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_019.webp",
+   "sha256": "9d3c7155c6ca681b41f398c631d6193fa8c9dbfbf69f0902b4e12a3332fb1fa1",
+   "sizeBytes": 51698
+  },
+  {
+   "assetId": "HOTEL08_IMG_020:scene_image",
+   "wordId": "HOTEL08_IMG_020",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_020.webp",
+   "sha256": "a1ef2468664bdfd2e1a9e76920eae81aa0b9553dcb1e1a54a10d093f4cc22f4d",
+   "sizeBytes": 53256
+  },
+  {
+   "assetId": "HOTEL08_IMG_025:scene_image",
+   "wordId": "HOTEL08_IMG_025",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_025.webp",
+   "sha256": "ed2e025d1c59cbc0699f2055668d73972c7e45d656e3455cb84b6050b14925bf",
+   "sizeBytes": 51882
+  },
+  {
+   "assetId": "HOTEL08_IMG_026:scene_image",
+   "wordId": "HOTEL08_IMG_026",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_026.webp",
+   "sha256": "47e61ef73704d569b9e767b1f0f61a8ad970f7267c90acd5e8310f408704172e",
+   "sizeBytes": 42602
+  },
+  {
+   "assetId": "HOTEL08_IMG_027:scene_image",
+   "wordId": "HOTEL08_IMG_027",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_027.webp",
+   "sha256": "03f3fe380a962511d78c38995d69b8e77b5b565e48f15d28e2c0427c92ced1a3",
+   "sizeBytes": 51230
+  },
+  {
+   "assetId": "HOTEL08_IMG_028:scene_image",
+   "wordId": "HOTEL08_IMG_028",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_028.webp",
+   "sha256": "d06c220b91de69d9f229ffc9fb98203064e31b3a985137d06e76c1fdce62570e",
+   "sizeBytes": 47354
+  },
+  {
+   "assetId": "HOTEL08_IMG_029:scene_image",
+   "wordId": "HOTEL08_IMG_029",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_029.webp",
+   "sha256": "76a0592260d424f4410ba75d0e5491256505368870ee7ca1edb887ec8e367219",
+   "sizeBytes": 49570
+  },
+  {
+   "assetId": "HOTEL08_IMG_030:scene_image",
+   "wordId": "HOTEL08_IMG_030",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_030.webp",
+   "sha256": "1e9e9e10112a7eda104f9e30cfb99a1bc6782987d6768ce7b11f96294eb1d727",
+   "sizeBytes": 40046
+  },
+  {
+   "assetId": "HOTEL08_IMG_031:scene_image",
+   "wordId": "HOTEL08_IMG_031",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_031.webp",
+   "sha256": "e3cab0b3de1a88bedd4073ad19d6382824f4310c94d79fef07d5af30e28f36a7",
+   "sizeBytes": 78692
+  },
+  {
+   "assetId": "HOTEL08_IMG_032:scene_image",
+   "wordId": "HOTEL08_IMG_032",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_032.webp",
+   "sha256": "68b4e9fd3544046fdd0c4f6f2e5d184d0144eb3a364775d5666438dd959a6b49",
+   "sizeBytes": 47164
+  },
+  {
+   "assetId": "HOTEL08_IMG_021:scene_image",
+   "wordId": "HOTEL08_IMG_021",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_021.webp",
+   "sha256": "5da3019aab111a043cc3a9ad51fcb79e72d88f46ef7f07ea58ce3d93ab612a8c",
+   "sizeBytes": 71326
+  },
+  {
+   "assetId": "HOTEL08_IMG_022:scene_image",
+   "wordId": "HOTEL08_IMG_022",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_022.webp",
+   "sha256": "c17317e75233ec26008c917b037f221938e15b349335f24b8a4494fc4d79f8b8",
+   "sizeBytes": 73684
+  },
+  {
+   "assetId": "HOTEL08_IMG_033:scene_image",
+   "wordId": "HOTEL08_IMG_033",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_033.webp",
+   "sha256": "84e1b6b6b22c2e6a3d8e6532e13738c69737a9c3a98a268f861f92b8b6a1243a",
+   "sizeBytes": 64862
+  },
+  {
+   "assetId": "HOTEL08_IMG_034:scene_image",
+   "wordId": "HOTEL08_IMG_034",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_034.webp",
+   "sha256": "d3bbce8c6e3a23f22e2d9f4c793c3ac73428e41adc41d5e57e4dd51ce248fba9",
+   "sizeBytes": 78204
+  },
+  {
+   "assetId": "HOTEL08_IMG_035:scene_image",
+   "wordId": "HOTEL08_IMG_035",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_035.webp",
+   "sha256": "a6bd330eef5dcdce03529839a3fff3d328539e58356e3af3b1c1b302248cf247",
+   "sizeBytes": 66002
+  },
+  {
+   "assetId": "HOTEL08_IMG_036:scene_image",
+   "wordId": "HOTEL08_IMG_036",
+   "assetType": "scene_image",
+   "path": "id-packs/media/hotel_visual_v1/HOTEL08_IMG_036.webp",
+   "sha256": "5d429d9aad0841d30822dd0cf263c0ac43bb3579541ec0170a051f31393785e4",
+   "sizeBytes": 65330
+  }
+ ],
+ "missing": []
+}

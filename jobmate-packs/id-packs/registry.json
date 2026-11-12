@@ -1,0 +1,36 @@
+{
+ "schemaVersion": 1,
+ "deliveryType": "id",
+ "packs": [
+  {
+   "packId": "HOTEL-FULL",
+   "latestVersion": "1.2.2",
+   "name": "Khách sạn · gói đầy đủ (hình + audio)",
+   "title": "Khách sạn · gói đầy đủ (hình + audio)",
+   "description": "Hình và audio US của toàn bộ từ vựng Hotel English, 12 bài Front desk và 500 từ Booster lễ tân mà app chưa có sẵn (chưa duyệt).",
+   "dependencies": [],
+   "deliveryType": "id",
+   "downloadUrl": "HOTEL-FULL.json",
+   "sha256": "2e9e8f800f0221cfb307adf1dab056d3a471d0e881bee41db21e5b0fd92587b2",
+   "sizeBytes": 341327,
+   "wordCount": 666,
+   "assetCount": 1296,
+   "assetBytes": 22234983
+  },
+  {
+   "packId": "HOTEL-VISUAL-V1",
+   "latestVersion": "1.1.1",
+   "name": "Khách sạn · cảnh minh họa (288 cảnh)",
+   "title": "Khách sạn · cảnh minh họa (288 cảnh)",
+   "description": "Cảnh minh họa 8 chủ đề lễ tân, từ nhận phòng đến trả phòng (Martin, chưa duyệt).",
+   "dependencies": [],
+   "deliveryType": "id",
+   "downloadUrl": "HOTEL-VISUAL-V1.json",
+   "sha256": "1af4ea8bb8f3448fecada704ffba535c5f595929b53332395a9d51728d0d7bcb",
+   "sizeBytes": 89162,
+   "wordCount": 288,
+   "assetCount": 288,
+   "assetBytes": 14899380
+  }
+ ]
+}
