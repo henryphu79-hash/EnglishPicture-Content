@@ -2,13 +2,13 @@
  "schemaVersion": 3,
  "deliveryType": "id",
  "packId": "HOTEL-FULL",
- "version": "1.2.2",
+ "version": "1.2.3",
  "name": "Khách sạn · gói đầy đủ (hình + audio)",
  "title": "Khách sạn · gói đầy đủ (hình + audio)",
  "description": "Hình và audio US của toàn bộ từ vựng Hotel English, 12 bài Front desk và 500 từ Booster lễ tân mà app chưa có sẵn (chưa duyệt).",
  "dependencies": [],
  "minimumAppVersion": "1.0.0",
- "generatedAt": "2026-11-11T14:31:57+00:00",
+ "generatedAt": "2026-11-12T06:36:37+00:00",
  "generatedBy": "tools/id_pack_delivery_v1/build_hotel_full_media_pack_v1.py",
  "baseUrl": "https://raw.githubusercontent.com/henryphu79-hash/EnglishPicture-Content/main/jobmate-packs/",
  "wordIds": [
@@ -654,12 +654,16 @@
   "dAS627",
   "dAS628",
   "dAS629",
+  "dAS631",
   "dAS632",
   "dAS633",
   "dAS634",
   "dAS635",
   "dAS636",
   "dAS637",
+  "dAS638",
+  "dAS639",
+  "dAS640",
   "dAS641",
   "dAS642",
   "dAS643",
@@ -676,15 +680,17 @@
   "dAS654",
   "dAS655",
   "dAS656",
+  "dAS657",
   "dAS658",
+  "dAS659",
   "dAS660"
  ],
  "assetTypes": [
   "picture",
   "audio_us"
  ],
- "assetCount": 1296,
- "totalBytes": 22234983,
+ "assetCount": 1302,
+ "totalBytes": 22395667,
  "assets": [
   {
    "assetId": "dAA003:audio_us",
@@ -10863,6 +10869,14 @@
    "sizeBytes": 13536
   },
   {
+   "assetId": "dAS631:picture",
+   "wordId": "dAS631",
+   "assetType": "picture",
+   "path": "id-packs/media/hotel_full/pictures/dAS631.webp",
+   "sha256": "5d4478cd95a41136206aa0f3ae3b691fbb4461d7284083e6544f46d35be6d944",
+   "sizeBytes": 20030
+  },
+  {
    "assetId": "dAS632:picture",
    "wordId": "dAS632",
    "assetType": "picture",
@@ -10909,6 +10923,30 @@
    "path": "id-packs/media/hotel_full/pictures/dAS637.webp",
    "sha256": "556bd0ba01fb397fafa6ec129cc68db6a8e9a06665a302a6fdc8964c38e52bdc",
    "sizeBytes": 28828
+  },
+  {
+   "assetId": "dAS638:picture",
+   "wordId": "dAS638",
+   "assetType": "picture",
+   "path": "id-packs/media/hotel_full/pictures/dAS638.webp",
+   "sha256": "3b091d776a5c80e562edfd5faca57a7466e8b01a5032d0ae96880b7620a4cb85",
+   "sizeBytes": 35974
+  },
+  {
+   "assetId": "dAS639:picture",
+   "wordId": "dAS639",
+   "assetType": "picture",
+   "path": "id-packs/media/hotel_full/pictures/dAS639.webp",
+   "sha256": "c68a3263ffd412cf7116bc79b936e016f96bf2dba1106df8f133ea53817bb5dc",
+   "sizeBytes": 26740
+  },
+  {
+   "assetId": "dAS640:picture",
+   "wordId": "dAS640",
+   "assetType": "picture",
+   "path": "id-packs/media/hotel_full/pictures/dAS640.webp",
+   "sha256": "3e5a373d77fa8191ef44ab3d849902a68388f8e33a7f6d929b8f14f0c461d80d",
+   "sizeBytes": 29888
   },
   {
    "assetId": "dAS641:picture",
@@ -11039,12 +11077,28 @@
    "sizeBytes": 14166
   },
   {
+   "assetId": "dAS657:picture",
+   "wordId": "dAS657",
+   "assetType": "picture",
+   "path": "id-packs/media/hotel_full/pictures/dAS657.webp",
+   "sha256": "6bbc750d1d4d9a792af2b0463ef9a9c195c3af42d9031d70a6b05374caebb97f",
+   "sizeBytes": 22042
+  },
+  {
    "assetId": "dAS658:picture",
    "wordId": "dAS658",
    "assetType": "picture",
    "path": "id-packs/media/hotel_full/pictures/dAS658.webp",
    "sha256": "2edc493a8dba092d0603578263dab5dc36b60b92184f800bf1380b3d7b2fa70d",
    "sizeBytes": 10340
+  },
+  {
+   "assetId": "dAS659:picture",
+   "wordId": "dAS659",
+   "assetType": "picture",
+   "path": "id-packs/media/hotel_full/pictures/dAS659.webp",
+   "sha256": "c6abcc2ccccaebf9fd627e955e816ef34d06a39ae268de2ae503deaa93605205",
+   "sizeBytes": 26010
   },
   {
    "assetId": "dAS660:picture",

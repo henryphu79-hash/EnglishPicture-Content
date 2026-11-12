@@ -4,18 +4,18 @@
  "packs": [
   {
    "packId": "HOTEL-FULL",
-   "latestVersion": "1.2.2",
+   "latestVersion": "1.2.3",
    "name": "Khách sạn · gói đầy đủ (hình + audio)",
    "title": "Khách sạn · gói đầy đủ (hình + audio)",
    "description": "Hình và audio US của toàn bộ từ vựng Hotel English, 12 bài Front desk và 500 từ Booster lễ tân mà app chưa có sẵn (chưa duyệt).",
    "dependencies": [],
    "deliveryType": "id",
    "downloadUrl": "HOTEL-FULL.json",
-   "sha256": "2e9e8f800f0221cfb307adf1dab056d3a471d0e881bee41db21e5b0fd92587b2",
-   "sizeBytes": 341327,
-   "wordCount": 666,
-   "assetCount": 1296,
-   "assetBytes": 22234983
+   "sha256": "12bc20cb4c66647bd4edf804b7ae418447f754c968f2467e03c411f4af7c8fb2",
+   "sizeBytes": 342929,
+   "wordCount": 672,
+   "assetCount": 1302,
+   "assetBytes": 22395667
   },
   {
    "packId": "HOTEL-VISUAL-V1",
